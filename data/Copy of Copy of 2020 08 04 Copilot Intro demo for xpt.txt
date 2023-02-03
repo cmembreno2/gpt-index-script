@@ -1,0 +1,608 @@
+0, 15920, Hello there, Tom. Hello there, Rob.
+15920, 19120, Hello. Can you see me? Can you hear me?
+19120, 25240, Sure can. Yeah. Can you hear and potentially see me as well?
+25240, 28720, I can see you in that very nice picture behind your head.
+28720, 34960, Appreciate that. I'm not showing you only because I'm driving right this second.
+34960, 37160, Well, that's a good idea. Please don't do that.
+37160, 41320, Back to my house in the next three minutes.
+41320, 48720, Makes sense. And we're waiting on, Eddie's going to join us too, I think.
+48720, 54800, Great. And then Paul from my team should be joining shortly as well.
+54800, 60960, Excellent. Can you give us a background on how you came up with the name?
+60960, 64080, What is the name? Absolutely.
+64080, 66960, I think we have Paul here now as well. Good morning.
+66960, 75760, Good morning. So, Kaleepa is actually both a name, kind of a word in Hawaiian, and a place in Kaua.
+75760, 81760, And so the actual meaning is commerce or marketplace, which was a very early incarnation about
+81760, 86960, of Kaleepa, facilitating commerce through data and insights.
+86960, 92320, And Paul and I are both avid outdoorsmen and we've been fortunate to visit Hawaii.
+92320, 95200, And the Kaua'i Trail is actually a beautiful hiking trail.
+95200, 100800, And a little bit of a revisionist story, which we learned afterwards.
+100800, 104800, It has a heavy dose of fog throughout the day.
+104800, 108720, And it's actually very precious to climb there because there are steep cliffs.
+108720, 112640, But when the sun comes out and it dispels the clouds, then there's actually a path forward.
+112640, 118000, So, Paul provides that path amidst the risk.
+120720, 122880, That was a long-waited answer. I'm not sure.
+122880, 127600, There may have been more than you bargained for.
+127600, 133840, And I think I learned about XPT on the website, Expertise, Experience, and Expectations.
+133840, 137120, Are those the three E's you guys deliver on?
+137120, 141440, That's it. It's part of our brand.
+141440, 143440, That's fantastic.
+143440, 147280, Eddie's trying to join in, but he said he's having some internet problems.
+147280, 151520, So one of the challenges of work from home.
+151520, 154960, But he'll figure it out, I'm sure.
+154960, 161040, For sure. So, Rob, I know it's been probably over a year since we last caught up back at ICC.
+161040, 165120, But obviously it seems like you guys were building something fantastic at XPT.
+165120, 172960, And hopefully the opportunities have been manageable for you and the team through this COVID period.
+172960, 180800, Yeah, it was pretty surprising that one day we had all our offices open.
+180800, 183440, And the next day we had everybody working remotely.
+183440, 194080, And with a pretty short transition, I would say it's worked reasonably well.
+194080, 198240, Which was a very pleasant surprise.
+198240, 207360, We have a lot in the trucking arena, which wasn't as hard as some of the other areas of the economy.
+207360, 209840, Which was fortunate for us.
+209840, 221520, Although we do have some restaurant, bar, tavern business, which did have some impacts from the shutdowns.
+221520, 225520, But we're pressing forward.
+225520, 229840, Absolutely. It's fortunate that you guys have a diversified portfolio.
+229840, 237440, And it seems like you guys are kind of pushing on all cylinders to grow. So that's great.
+237440, 244240, And so I think Ed was joining a moment ago, but he may have left.
+244240, 245760, There he comes.
+245760, 247680, Ed, can you hear us now?
+247680, 251120, I think the audio is connecting right now.
+251120, 252640, Makes sense.
+252640, 259440, So I guess, Rob, we'd refer to you as to what would be most helpful.
+259440, 263440, We'd certainly appreciate any background that you can provide about XPT.
+263440, 266000, Obviously, we've read about the acquisitions and your growth.
+266000, 267040, Fantastic.
+267040, 272560, Helpful to understand a little bit more about your priorities, particularly as it relates to underwriting.
+272560, 277840, We're happy to spend the bulk of the time giving you a more comprehensive introduction to Calefa.
+277840, 284160, How clients, both carriers and MGA's are using our co-pilot solution for their underwriting.
+284160, 290720, And then we can think here together kind of how this might be a fit or what else might be helpful.
+290720, 296400, Well, Tom, do you want to do the XPT background and overview?
+296400, 306160, And I think that Ed and Tom have a very technology oriented view of business.
+306160, 317040, And so if possible, it would be great to see the system or understand what is the guts and how it works.
+317040, 327280, And obviously, how your customers are using it currently to do whatever they do with it.
+327280, 334720, We all spoke, I think it was last fall.
+334720, 341600, And I actually came into ICC's office and presented it to the underwriting team there, which I didn't get to see.
+341600, 353840, So we'd love to kind of see how the tools work and how you guys use it to help underwriters, carriers, and whoever else the products use.
+353840, 356400, Certainly.
+356400, 360720, Well, I can give easily a little background on XPT. Can you hear me?
+360720, 362800, Yeah, we can hear you perfectly.
+362800, 364400, Good.
+364400, 379200, So XPT was formed by Mark Smith, Jeff Heath and myself coming out of Swetton Crawford, where we saw that amongst all the consolidation, the industry,
+379200, 388880, part of the business that had not really had any significant consolidation was the binding authority space.
+388880, 403120, And simultaneously, we also observed that retailers continue to struggle to make money on their small business book of business.
+403120, 417040, And so, you know, there is an opportunity for us to create a focus on small business and to do it by creating a foundation from a number of binding authorities,
+417040, 422960, which is kind of the XS circle of signs answer to small business.
+422960, 434800, Bring those together as a foundation and then build out a national platform focused on small and small medium business.
+434800, 444000, That platform kind of having three functional disciplines, one being an MGU, where we're really an outsourced insurance company,
+444000, 455840, two being kind of an MGA, binding authority, whatever you want to call them, which is kind of a hybrid between a broker and an underwriter,
+455840, 464320, where you're underwriting on behalf of a number of different insurance companies, whereas at MGU, you're really just doing it for one.
+464320, 468640, In a binding authority, doing it for a number of binding authorities.
+468640, 481440, And you have some underwriting authority, but it's pretty limited and you're usually using the insurance company systems in addition to your own system.
+481440, 491040, And then the third area is just open brokerage, where we can't place it in either a binding authority or an MGU that we own.
+491040, 501520, Then you're just getting a full on placement done in the open marketplace as a wholesaler on behalf of retail agents.
+501520, 506560, So we've been at it since our first investment was November 1st, 2017.
+506560, 512640, We've made seven investments with five operating businesses.
+512640, 522720, And we have launched a couple of MGA's that we've created and hired a bunch of producers.
+522720, 527680, And we will continue to do more of the same.
+527680, 533360, Our first phase of operation, which we've kind of gotten through, was kind of creating the nucleus,
+533360, 541680, proving the business plan, kind of creating critical mass so that we can move into phase two and really kind of focus on
+541680, 547760, the resources we need to have in order to scale the business.
+547760, 551360, And then phase three is just continuing to scale.
+551360, 555200, So technology is a big part of phase two.
+555200, 565440, And so we're beginning to do our homework to make our first technology investments in probably in 2021.
+565440, 573120, So hopefully that is a little bit of a good high level background.
+573120, 574640, It's certainly a very helpful background.
+574640, 582800, It seems like you guys are being very kind of strategic and methodical about how you go about that kind of plan in terms of ironing out the kings,
+582800, 587440, getting the competency in place and really scaling and kind of going out here on the market,
+587440, 590480, which is obviously proven out well so far.
+590480, 597920, And it seems like you guys are now positioning the business for an inflection point.
+597920, 599440, Is that a fair capture?
+599440, 601760, That is a fair capture.
+601760, 604400, Great. That's very helpful.
+604400, 607120, That's very helpful to get that context on.
+607120, 611520, And I think that's consistent with what we saw online.
+611520, 619440, And it augurs very well for the person you guys are taking and the need in the market that you guys are addressing.
+619440, 620880, Go ahead and share my screen quickly.
+620880, 636720, I'll share with you a couple, certainly a handful of slides to set some context and then we'll spend the more time just walking you guys through the software in detail and what it does and how it's deployed and utilized by the writers.
+636720, 643280, Let me know when you're able to see some slides on your end.
+643280, 644720, I can see them.
+644720, 646400, Perfect.
+646400, 647280, Terrific.
+647280, 654160, So this is a Kaleppa trail that Danny was explaining about a moment ago.
+654160, 659760, But at a high level, really the software that we built, we call it the co-pilot.
+659760, 669600, Co-pilot naming is a nod to Danny's background and also to the way that we think about underwriting and empowering underwriters to make better decisions.
+669600, 678720, And really bringing in the technology and the AI to support those decisions across two core areas or two core questions.
+678720, 681440, The first one is where should the underwriters spend their time?
+681440, 690320, We find that to be especially important in high flow businesses such as small business where you have a large flow submissions, not all of which are created equal.
+690320, 695440, How can you ensure that the underwriters are using their time most productively and effectively?
+695440, 703520, And the second component, of course, is once a risk is being evaluated, what does the underwriter need to know to make the best decision as quickly as possible?
+703520, 708000, So they are not in that trade off between speed and quality of reselection.
+708000, 712000, And that ultimately is what the software is designed to address.
+712000, 722640, Oftentimes what we find and I'll be curious kind of what your perspective is on this and what you've seen in some of the operating companies is that underwriters and underwriting organizations seem to be pulled in two different directions.
+722640, 735440, On one hand, of course, you want to be commercially savvy, grow the book, grow premium rapidly by being easy to do business with, being flexible, being first to quote.
+735440, 742800, And in some cases, even automating some portions of this process so that you can pass through certain submissions.
+742800, 752000, And all that's great. But of course, if that's not done properly, you grow the book rapidly and it's a very profitable book or you lose the mining authority, you lose the pen.
+752000, 766640, The underwriting authority from from a carrier, conversely, if you are throwing your underwriter and you're on the writing and you're selecting the risk properly, you're doing inspections, you're being judicious about following guidelines.
+766640, 771520, That's great. But if that takes you two weeks to quote a risk, you're not going to be doing a whole lot of business.
+771520, 780400, So we see that constant tension between speed and reselection and quality that historically the best underwriters have been able to navigate.
+780400, 788800, But fundamentally, something that's been fully cracked. And that really is what the co-pilots try to try to address.
+788800, 794000, I'll pause there for a second. And I wonder, are any of these areas kind of more top of mind than others?
+794000, 799920, You know, do you see that that growth is a bigger priority now than reselection or vice versa?
+799920, 806080, Or kind of some of these are more common?
+806080, 816560, You know, I think it's all depends on the market, depends on pricing parameters at the time as to whether you're being more selective or less.
+816560, 824640, Depends on the loss ratios that are happening. So it's all legitimate.
+824640, 827920, Great. Excellent. So that's only helpful to hear.
+827920, 837680, And ultimately, ultimately, what the software is doing is trying to impact those two metrics. Right. It's impacting your throughput.
+837680, 844000, You know, how much are you quoting? How fast is your book growing by just driving speed of underwriting,
+844000, 852560, but also impacting the profitability of that underwriting, the quality of what's been selected by ensuring that the decisions are being made are consistent and accurate.
+852560, 859040, And that translates into a couple areas. One is we've seen across our clientele,
+859040, 867440, you know, generally speaking, anywhere from six to twenty three is the highest that we've seen X improvements in underwriting speed tends to oscillate about ten.
+867440, 873200, That for folks who are writing larger business in a mid-market, particularly larger mid-market accounts,
+873200, 879760, that takes a giant schedule of a hundred locations and then that could have taken them several days to write and they're writing that in a couple of minutes.
+879760, 884640, That's there for folks who are running small business is more about what they're getting to.
+884640, 896720, So before, you know, they got a flow submissions and they were leaving, leaving twenty five, thirty, forty percent of those unquoted or making an improper decision.
+896720, 908000, Now you can get to all of that. So it's a matter of how you have throughput or other folks basically say, you know, before I could do X with three underwriters and I can do five times that with the same number of underwriters.
+908000, 917440, So it's all kind of the same side to the same coin. Quality tends to come around, you know, whether you are having overturned decisions during audits.
+917440, 922480, You know, when you look at a renewal portfolio, what's the impact to that renewal portfolio?
+922480, 930160, Certainly for M.G.A.s, oftentimes they're evaluating the loss ratios and the quality of their underwriting also based on what the carriers are telling them.
+930160, 933840, So, you know, we have we have seen pretty pretty meaningful impact there.
+933840, 945760, And then recently, especially with covid, we've seen that co-pilot started becoming a platform for a lot of collaboration and communication, both internally between underwriters and the underwriting leadership,
+945760, 953200, as well as externally being underwriters and their distribution partners, mainly just because of the fact that that would everyone working from home,
+953200, 959520, some of the experience of going down to the, you know, the office or the hallway and asking a question to a fellow underwriter.
+959520, 969040, Not really possible. But now a co-pilot, you have kind of a single version of the truth that you can use to expedite that process and also ramp up more union underwriters.
+969040, 971600, So these are kind of the areas I'll be highlighting in a moment.
+971600, 972400, But let me just go ahead.
+972400, 978160, Are there any particular products, insurance products that you've been more successful?
+978160, 983680, Yeah, absolutely. So you guys mentioned you do a lot of auto and we actually don't do a whole lot of auto.
+983680, 996000, So we do we do particularly well with GL, workers comp property, as well as specialty lines, particularly some excess and surplus we've done quite a bit of.
+996000, 1001200, And in terms of types of businesses, you know, a lot of businesses with a brick and mortar presence.
+1001200, 1005520, So a lot of real estate, both habitational and commercial, HOAs, et cetera.
+1005520, 1007400, We've done a lot of that.
+1007400, 1009680, Restaurant bar, taverns is a big area.
+1009680, 1015760, Hospitality in general, so hotels, motels as well, retail and then contractors.
+1015760, 1020960, So artisan contractors, but also larger contracting construction organizations.
+1020960, 1027680, We don't do like massive construction, but small and mid-market construction and contracting we do quite a bit.
+1027680, 1030880, We don't do commercial auto or certainly not at scale yet.
+1030880, 1040720, So that's something that will probably be launching live, probably closer to Q2 of next year.
+1040720, 1043760, Good, thank you. Absolutely.
+1043760, 1049440, Let me go ahead and share my browser.
+1049440, 1055200, So you should be able to see a new browser on your end.
+1055200, 1062720, I joined. I was having some internet problems this morning, but I'm alive now on the Wi-Fi.
+1062720, 1063760, Good to meet you, Ed.
+1063760, 1069520, Were you able to catch some of the last couple of minutes where I was introducing the capability or would it be helpful to give you a...
+1069520, 1071840, Yes, I started. No, no, go ahead.
+1071840, 1075360, I started with when the demo, when the PowerPoint started.
+1075360, 1081120, Hey, Tom, did you know Mario Vitale is part of this?
+1081120, 1084400, I did not know Mario Vitale is part of this.
+1084400, 1087040, You did.
+1087040, 1089120, He's part of the advisory board.
+1089120, 1093440, That's exactly right. Mario is being one of our advisors since last summer.
+1093440, 1095360, We're thrilled to be working with him.
+1095360, 1097760, He's a fantastic guy and a phenomenal leader.
+1097760, 1106640, So we've been very, very happy to have him on board advising us as we continue to grow the business and expand.
+1106640, 1112640, Frankly, a lot of our efforts with MGA have been driven by a lot of the feedback from Mario.
+1112640, 1114720, We originally were very carrier focused.
+1114720, 1119600, Started working with MGA probably eight, nine months ago in earnest.
+1119600, 1124320, And Mario was key to that decision.
+1124320, 1131200, Have you guys worked with Mario in the past?
+1131200, 1135200, Yes, I have a long relationship with him.
+1135200, 1136240, That's great.
+1136240, 1139040, That's terrific.
+1139040, 1146160, Phenomenal. So, you know, what you see now here is the co-pilot and really is broken down into two pieces.
+1146160, 1148400, We try to address those two questions that I mentioned.
+1148400, 1150400, One is where should the underwriters spend their time?
+1150400, 1156400, The second one is once they have a given risk, what do they need to know to make the right decision as quickly as possible?
+1156400, 1166960, What would an underwriter who had a team of 25 underwriting assistants and all the time in the world arrive to, but not taking all the time in the world, but taking minutes?
+1166960, 1170480, So, at least that first component, which is, you know, what we call the hub.
+1170480, 1175040, And the core objective here is how should the underwriter manage their time?
+1175040, 1176800, So how do submissions get here?
+1176800, 1178560, Well, really, they can come in a number of ways.
+1178560, 1191360, Like, you know, the most manual, if you wish well, way to add them is, you know, you can have a business name and an address or you can have a schedule of values and drag and drop it in a core form or a supplemental.
+1191360, 1196160, Any of those pieces of information, basically, the software will then ingest and create a submission.
+1196160, 1205680, Other folks have, you know, an inbox, for example, where they're receiving all the submissions, we can integrate to that, pull the data from there and create the submissions here.
+1205680, 1210560, Other people have an agency management system or a portal, and then we can integrate to those.
+1210560, 1217040, But ultimately, what happens is as an underwriter sits on their desk, they see here what's top of mind for them.
+1217040, 1221840, This part of the bottom is really making sure that nothing falls through the cracks for the underwriters.
+1221840, 1225120, You know, what is on my plate? What just came in? What am I looking at?
+1225120, 1236400, And if there's something that requires additional questioning, so, you know, I need to take while lodging and I need to ask some questions of Kevin to get some feedback.
+1236400, 1239840, And, you know, if he doesn't get back to me in four days, I want an alert.
+1239840, 1245560, You can do that. And if in four days, you know, Kevin hasn't gotten to me, I'll get an alert here.
+1245560, 1252880, I'll get an alarm. Otherwise, if he replies from the email, I'll see the reply and then I'll move it back to being, you know, just saying back on my plate.
+1252880, 1255600, So, again, what's happening down here is nothing, nothing magical.
+1255600, 1260640, Ultimately, what we're doing is ensuring that nothing falls through the cracks for the underwriter.
+1260640, 1269280, And this can be customized. Some folks, for example, said, well, you know, if something is not in appetite, it checks the following rules, put them in an auto decline or in a batch decline thing.
+1269280, 1274720, You know, these are actually spending time here. Comparatively, hey, this is something that it's down the middle.
+1274720, 1278760, You can prove it right away. So that fundamentally is the bottom part.
+1278760, 1285880, But you see that I have this blue strip on top. And the ultimate idea here is that not all these submissions are created.
+1285880, 1289400, Some of them are better opportunities. And why might it be better?
+1289400, 1293920, Well, there may be a better opportunity because it's a larger opportunity. Everything else being equal.
+1293920, 1300400, You might want to be working on the ten thousand dollar opportunity rather than one thousand or fifty thousand rather than five thousand.
+1300400, 1304400, Of course, things are not, you know, everything else is rarely equal.
+1304400, 1311920, Another component might be the complexity of this. This is something that's incomplete. It's missing a lot of important information that I need to actually underwrite.
+1311920, 1316480, If so, you know, it's not going to be straightforward. If it's large enough, it might be worth it.
+1316480, 1323360, But otherwise, you know, you need to ask some questions or you might have the information, but we have validated the information and some of it appears to be erroneous.
+1323360, 1331760, They say this place has, you know, 20 employees. Well, in reality, seems like they have 50 or, you know, they say they don't have they don't sell alcohol, but they do.
+1331760, 1337080, So, again, is it down the middle to be the appetite of your carriers? Is this something that we even want to write?
+1337080, 1343440, Is it down the middle? Is it something that we acceptable or is it something that we we're not in the appetite for?
+1343440, 1346920, And of course, you don't want to be prioritizing things that we don't want to be writing.
+1346920, 1351320, Other folks have added different factors, you know, for example, who is a distribution partner?
+1351320, 1358920, Is this a person who's been sending me good business, who has helped me buy a bunch of business or just wasting more time on trying to block the market?
+1358920, 1368400, Could be cross sell opportunities in some cases. And what we do is when we start working with any client, you know, the first day or two, we basically ask them to their underwriting leadership.
+1368400, 1372240, What are the core criteria that you will want to prioritize on?
+1372240, 1379320, And you will codify that and taking, you know, appetite for the carriers that they work with and the guidelines that they have codified all that.
+1379320, 1388040, And fundamentally, the algorithm, the AI takes in that information and as new submissions come in, takes all the data from the application, all the data we know about that business and rank orders.
+1388040, 1390840, And that's what you see here. And that's just part one, right?
+1390840, 1397240, Part one is just kind of snapshot in time of what do we think would be a good opportunity for the underwriter to spend time on.
+1397240, 1404240, But of course, there are a number of intangible things that the underwriter might know, particularly, you know,
+1404240, 1410480, seasoned, experienced, high quality underwriters who are writing, you know, a good, growing, profitable book.
+1410480, 1415640, And the software learns from that behavior. So, for example, an underwriter ignores these recommendations.
+1415640, 1422720, We learn from that. If there's a person that's doing well and they actually ignored the recommendations and took something else, started working on, you know, a.k.a. Wall Street.
+1422720, 1432960, Well, we take that into account and the software is retraining. If they go one better and tell us why, they say, for example, you know, NYC properties are a nice try, co-pilot, you know, nice AI here.
+1432960, 1440560, But you're not so smart because Robert here has been sending these to my desk for the past four years and hasn't found a single time. He's wasting my time.
+1440560, 1446160, So you that again, that's an even stronger signal that basically now tells us, well, there's something wrong with Robert.
+1446160, 1454680, So now submissions from Robert will be deprioritized and fundamentally, you know, the next best submission will be recommended.
+1454680, 1463640, So ultimately, the software is taking a two part approach. One, what is that top down guidance on what are the core underwriting priorities and criteria?
+1463640, 1467520, And how can we make that actionable so that any new submission is ranked?
+1467520, 1475120, And second, well, how can we actually learn from what the best underwriters are doing so that you actually keep lifting all tides, all boats in the tide?
+1475120, 1480960, Let me pause there and see if there are any questions so far. I know I went through that fairly quickly.
+1480960, 1492600, So this whole time, really, what we're just looking at is is a list screen, but you're describing the actions that are taking place by the co-pilot in the background.
+1492600, 1499680, That's exactly right. So fundamentally, you know, you had a submission, the submissions coming anyway, right? So you're on the writer, you sit on this desk,
+1499680, 1505800, and then you see these things on top are rank order in this one. As new ones come in, they get rank order.
+1505800, 1513840, And, you know, let's say IFCV is the best one right now. I might start working on it. If I finish it, great. I quote that. I send it, you know, I'm behind it.
+1513840, 1518880, And then, you know, by the time I'm finished, another one has come in that's better than white lodging, then that will be prioritized.
+1518880, 1525920, And again, if I say white lodging is not good, because white lodging has X problem, not only does it get removed, of course, but more importantly,
+1525920, 1533400, and the next best comes in, it learns why. Well, what's wrong with this? So ultimately, you're actually making better recommendations.
+1533400, 1540640, And of course, it's only part one, which is what should I work on? Part two is, well, now I want to work on something, what do I need to know?
+1540640, 1547040, That's the second component of co-pilot, which you see here, it's called fly control, which is, OK, now that I've decided what risk
+1547040, 1558880, do I want to start working on and on the right, what do I need to know? This is a small kind of hospitality group and they have a handful of restaurants, a bar, a boutique hotel.
+1558880, 1563160, The first thing that you see here is before looking at any of them, there's kind of a summary.
+1563160, 1567720, And I'll show you what each of the individual locations has.
+1567720, 1571000, Fundamentally, anything that we know about any of these businesses can be aggregated.
+1571000, 1578040, You know, all of these ones are in New York, so the aggregates are not particularly surprising. I'll show you one larger kind of schedule in a moment.
+1578040, 1583320, So it'll be a little more apparent. You also can look, for example, at a portfolio of businesses and try to see.
+1583320, 1588720, For example, here, you know, something like crime right now, all six of these are about the same crime level because they're only in New York City.
+1588720, 1597960, But it could be anything. It could be which of the locations in here has alcohol, which of them meets X, Y or Z criteria so that you can only focus on the ones that matter.
+1597960, 1601880, Now, what is the information that ranking? Say that again.
+1601880, 1607200, How does the how does the system know how to do that ranking?
+1607200, 1613360, Is it based on the addresses that get pulled in or how does that work in the background?
+1613360, 1623120, That's exactly right. So in this particular case, it's good being a submission that had, you know, six locations in a schedule of values or in a core form or an ICC or it could be two or three locations.
+1623120, 1629320, It could be a hundred. And ultimately, what it's doing is for each of those locations or I mean, locations in the case, I ask physical presence.
+1629320, 1632320, If this was contractors, there are no location necessarily, right?
+1632320, 1643480, Just an individual or a small firm. But ultimately, for each of them is taking in the information that came in the application, plus a lot of information that we have outside and
+1643480, 1660160, effectively building a profile for this business with all the key on the writing criteria. So this is something, for example, we had it recently. It's a restaurant up in one of the six locations is this restaurant in Midtown, New York.
+1660160, 1666280, And, you know, you saw that COVID alert. It's something we had recently. Fundamentally, there are complaints.
+1666280, 1674840, In this case, it's only one, not really a recurring behavior. There was a social distancing complaint almost three months ago. So it's not really a big deal in this particular case.
+1674840, 1681320, Some other cases you will see kind of more consistent violations. They may have a legal license, for example, and we'll flag that.
+1681320, 1686600, Other pieces of information we have about the risk might be more relevant to folks who are writing property.
+1686600, 1694200, You might know that your classic cat information, you know, the flood risk, the distance to fire hydrant, the distance to police station.
+1694200, 1701240, Where are we getting that? The exact same way you would, right? We're getting the risk information from the cat information from FEMA.
+1701240, 1709080, We're getting the information from the fire department, from the police department. All we're doing here is summarizing for the underwriter so they save time.
+1709080, 1717440, If you're writing something like, you know, liability, or even if you're supposedly writing crime, you might care about the crime in the neighborhood.
+1717440, 1725640, And that's what we have here. And again, we're getting these from the FBI. So this is the crime statistics at the block group level, which tends to be C++4.
+1725640, 1733400, In dense cities tend to be smaller than C++4. And again, across different crime types, you know, what is the crime presence?
+1733400, 1740920, And all that's here, there's no AI taking place. This is just really, let's bring everything together for the underwriter.
+1740920, 1747880, Similarly, there might be questions around the building itself. And we're taking information from the Department of Buildings, from appraisal offices,
+1747880, 1757440, from commercial restate databases that record transactions from permits, and trying to provide the underwriter with some assessment of what is going on with this building.
+1757440, 1765640, Is there any work that has been done recently, etc. And corroborate some of those data points before we surface to an underwriter.
+1765640, 1773680, In other cases, though, the kind of underwriting question you care about, particularly writing something like specialty or liability, is not something that sits on any database.
+1773680, 1781160, What you want to know is, is there any specific thing happening with the operations of this place that will be of concern?
+1781160, 1786600, And that is kind of where the AI comes back in, which is, you know, we say, well, the place has, does this place have alcohol?
+1786600, 1790920, And you could check a liquor license at the state level. And we do. And that tells you, do they have a liquor license?
+1790920, 1795840, Do they have a liquor license for wine and beer only or for a full bar?
+1795840, 1799600, But the more interesting component is, what are they actually selling? How much?
+1799600, 1805440, And in case you see that, you know, the model has said the place has alcohol, it has a full bar with high confidence.
+1805440, 1812920, But what's going on behind the scenes is that, you know, the model is looking at a lot of information from social media,
+1812920, 1817480, from reviews, from menus, from news articles from the government, and making that assessment.
+1817480, 1824120, And it provides you the evidence. And this is why. This is why it concludes that this place has a full bar and with high confidence.
+1824120, 1832280, You know, there's 45 pages of people talking about how the cocktails are amazing, about, you know, the Sea Buckthorn Martini,
+1832280, 1835520, you know, the herring and vodka in this place, et cetera, et cetera.
+1835520, 1842320, So a rational human will conclude that, yes, this place, as a matter of fact, they sell a lot of liquor, a lot of hard liquor.
+1842320, 1848040, And that's the case. But, you know, it seems like a nice place. It seems like a place that has, you know, a lot of food.
+1848040, 1854240, So it's not a $2, you know, dive bar. It's a $2 dive bar and has a mechanical bowl.
+1854240, 1861480, Well, that would be surface here for the underwriter to see. Or similarly, you know, in this case, hard performances, you know.
+1861480, 1868120, Why is this a likely DJ, likely live music? Well, again, it's seeing evidence for it, but not as conclusive evidence.
+1868120, 1876440, You know, for all these thousands of data points you looked at, there were two people that actually talked or had any indication of something about being a DJ.
+1876440, 1880840, You know, Monday, there's a DJ in the center of the restaurant, gets very lively with the clubbing music scene.
+1880840, 1889120, So probably do have it seems like only once a week. Seems like it's a rare occurrence. Similarly with live music, you know, live music and the musicians walk around and singing.
+1889120, 1895560, So ultimately, what the software is doing is trying to identify what an underwriter will get to if they had all the time in the world.
+1895560, 1901320, And these questions are, of course, industry dependent, right? You know, if you're at a restaurant or a bar or a tavern,
+1901320, 1908480, there'll be questions around what services they provide, what kind of food, you know, health ratings, any type of, you know, dangerous behavior.
+1908480, 1917880, In a hotel, there may be questions around the facilities, a parking lot, a well-lit or a dark parking lot, whether there are any instances of prostitution, etc.
+1917880, 1926040, If it's a contractor, it might be, you know, do they do roofing work, do they do landscaping, etc. Do they have the permits that are valid? Do they have the right licenses?
+1926040, 1936760, So ultimately, what we're trying to do is then bring in all the facts as well as infer any additional facts from all the images or the text data so the underwriter can make the right decision as quickly as possible.
+1936760, 1941560, Let me pause there and see if you guys have any questions.
+1941560, 1949080, No, it looks complete and straightforward. I mean, obviously, it's a demo. You're going to pick an account that you have a lot of information on.
+1949080, 1953960, 100%. No, absolutely. I mean, maybe, yeah, and what we love doing.
+1953960, 1962760, You should know the background of Ed and I is that we built a firm called Advising. I don't know if you've ever heard of Advising.
+1962760, 1969960, But Advising was bringing together some of these types of information that was available back in the early 2000s.
+1969960, 1975320, Obviously, there's more information available now than there was back in the early 2000s.
+1975320, 1982240, So we understand the concept and, you know, we've been involved in selling the concept into the marketplace.
+1982240, 1987240, So we know how people react to the concept and don't react to the concept.
+1987240, 1998640, The text mining, which you call AI, you know, that's useful stuff to be able to pull that out of social media and bring that together.
+1998640, 2002840, That's save a lot of time and relevant information to under it.
+2002840, 2008200, Sure, absolutely. Yeah. And in many ways, you know, the text mining is kind of part one, right?
+2008200, 2011560, Because ultimately, there's nuance in the language.
+2011560, 2018840, You know, so, for example, you know, there's folks that are talking about delivery, about some other types of information.
+2018840, 2022120, Nowadays, obviously, a lot of places are doing delivery because of COVID.
+2022120, 2027160, But then sometimes there's nuance. And then example I like sharing with folks is, you know,
+2027160, 2032120, if you just search for a keyword, you start making a lot of mistakes.
+2032120, 2035960, So and oftentimes, you know, the AI tries to be a little too smart as well.
+2035960, 2040800, So, for example, we have we have an infestation model, which tries to detect in the case of hotels,
+2040800, 2044880, is there are there bed bugs in the case of other places, is there vermin?
+2044880, 2051360, And they basically was looking for things like mice and didn't quite understand metaphors.
+2051360, 2056000, So in one case, we got someone to flag, hey, you know, it's likely that this place has infestation.
+2056000, 2061720, And the underwriter took a look at it. He said, oh, you know, the place is so quiet, you can't even hear a church mouse.
+2061720, 2063880, So it's not a church mouse, it's a real mouse.
+2063880, 2067600, But then what the software does is that you can actually provide feedback in those cases.
+2067600, 2070880, They laughed it up. They said, you know, does a business have outdoor seating?
+2070880, 2073840, No. And if you do that, again, the software learn.
+2073840, 2077280, So fundamentally, from that, now the software knows the church mouse is not a real mouse.
+2077280, 2082440, So ultimately, what it's doing is from images, from text, trying to make the best perspective that it can.
+2082440, 2087400, But it wants to be transparent so that when the underwriter looks at it, they can trust the information.
+2087400, 2093400, If for whatever reason, the underwriter has more information that is not apparent here and they give that feedback,
+2093400, 2098280, then again, the software learns and continues to improve those recommendations and those insights.
+2098280, 2103280, Did you make the software or is this something that you're repurposing and training?
+2103280, 2108680, No, no, we built the AI ourselves. I mean, certainly some elements of the infrastructure.
+2108680, 2114640, You know, of course, we were using elements that, you know, AWS makes available for deploying machine learning models, etc.
+2114640, 2118720, But we have been training our models and building them ourselves.
+2118720, 2124440, We had a problem between workers compensation and compensation for workers.
+2124440, 2131520, Yeah, that sounds easy, but boy, I spent a lot of time trying to get that to work.
+2131520, 2136920, Sure. How do you how do you find out? How do you actually resolve it ultimately?
+2136920, 2146640, Our interpretive text processing at that time was only adequate, even the best software you had at that time.
+2146640, 2154160, So we did a lot in the training and then we also had some rules based afterwards to improve the results.
+2154160, 2157440, Sure. We've certainly been fortunate.
+2157440, 2161160, The advent of kind of new machine learning technology over the last several years,
+2161160, 2169120, Python libraries provide helpful building blocks that our machine learning team can really take to the next level and apply it.
+2169120, 2176240, Absolutely. Yeah, ultimately, at the end of the day, you know, a lot of the text information and the computer vision advances,
+2176240, 2181360, you know, extracting features, you know, swimming pool, you see an image of that in a hotel, for example.
+2181360, 2183640, There's certainly much more advanced now than they used to be.
+2183640, 2186800, So there's a lot more that you can do with deep learning.
+2186800, 2193560, And you don't always need deep learning, but some of those nuances that you mentioned, what it breaks or a similar one would be
+2193560, 2200760, you're looking at something like actually delivery is a good example of that.
+2200760, 2206720, You know, when people use the word like the meal delivered and that doesn't mean that they have a delivery service.
+2206720, 2211320, So if you're just looking for a keyword delivery or deliver, that's going to give you a lot of false positives.
+2211320, 2219920, So you need to understand what does it really mean to have a delivery service and provide delivery off site of the premises, etc.
+2219920, 2225240, The approach that we take is very much kind of in line with what intelligence agencies might do to take raw data and actually
+2225240, 2230560, convert it into usable intelligence to make decisions on, which is corroborate across multiple sources.
+2230560, 2236160, And so we assign credibility levels to every data source that we're pulling in.
+2236160, 2244840, We then kind of weigh those and really deliver kind of the most high confidence out with the users and actually indicate what our confidence is.
+2244840, 2248640, Are we very confident that this is the case or just kind of directional?
+2248640, 2253280, And that's obviously helpful for underwriters to kind of remain in control and have that transparency.
+2253280, 2261840, But ultimately, if we're seeing that, you know, from satellite images, the, you know, the roof was changed nine out of ten times after the contractor worked there.
+2261840, 2267320, And we see that permits for doing roofing work and people say they did a great job by installing solar panels on my roof.
+2267320, 2269520, Well, then they probably do roofing.
+2269520, 2272680, But how do you get around the underwriters confidence?
+2272680, 2280720, Because if we had one or two mistakes, even though we had hundreds correct, he would say, oh, I have to check everything now.
+2280720, 2282680, How do you?
+2282680, 2285000, 100 percent. So, I mean, there are two components of that.
+2285000, 2291720, One of them is a transparency, which is, you know, when we make a prediction or an insight, we provide them with the evidence.
+2291720, 2295120, We also caveat when we don't know something, we say, oh, no.
+2295120, 2298120, So, you know, and we have very high thresholds for that.
+2298120, 2305160, So, you know, when you see something with no caveat, yes, yes, beer and wine, whatever, that's over 90 percent accuracy.
+2305160, 2310240, When you see the likely is between 70 and 90 below 70 percent, we just say we don't know.
+2310240, 2317560, So that's number one. And again, the other thing we do is I think we provide all the underlying evidence that is leading to do that.
+2317560, 2325920, So you only speaking to underwriters pretty quickly, you know, not only trust is but then as they see something, the things I missed, they kind of provide their feedback.
+2325920, 2336640, And furthermore, I mean, what we generally speaking find with underwriters is the alternative, which is the status quo for them is not only more time consuming, but also worse.
+2336640, 2344040, So oftentimes you say the one thing that is important here is that, you know, this is a hotel where there was a prostitution raid.
+2344040, 2351600, And you'll find that by looking at Google and finding a news publication from, I don't know, three and a half years ago where there was a raid.
+2351600, 2358440, But the place also is a two dollar motel has exposed, you know, it has open corridors and he has hourly rates.
+2358440, 2363480, Well, if the underwriter doesn't pick that up, they're going to write these and get hit by a claim that's going to be massive.
+2363480, 2369880, So we surface that to them. And for the computer, it's the same thing to be looking at a million pieces of text and images or one.
+2369880, 2378160, It isn't for the underwriter.
+2378160, 2382960, So a nice looking interface. I give you guys credit.
+2382960, 2387160, You know, that's looks very clean and modern.
+2387160, 2394200, Is are you using dot net or Java? What's the we got as program?
+2394200, 2401960, Sure. I mean, the front end is a JavaScript application and then our back end is a combination of languages, but mostly Python.
+2401960, 2408560, There are a few other components for some of the kind of higher performance, you know, kind of much learning pieces.
+2408560, 2412680, Is it software as a service as a multi-tenant software as a service?
+2412680, 2416520, Yeah, software as a service. And then, yeah, I mean, we basically host.
+2416520, 2423280, We're hosting in AWS, you know, depending on the nature of our engagement with a client and the size of that relationship,
+2423280, 2427840, we can have a separate tenant or a single tenant architecture for the most part.
+2427840, 2431240, You know, you know, all the data, of course, resides in separate databases.
+2431240, 2437000, But then but then, yeah, you know, the hosting infrastructure is consistent.
+2437000, 2445480, One thing that's very important for us, as you'll probably see kind of through the experience of co-pilot is really the usefulness for underwriters day to day.
+2445480, 2455600, And so a lot of kind of the, you know, companies that might play in the space of data and insights will have a very quantitative approach and really kind of a data oriented approach.
+2455600, 2461840, If you give an underwriter a flat file or a spreadsheet, that's not going to be that useful to them.
+2461840, 2470800, And so our perspective was, you know, to really help the underwriters be very efficient, be very accurate in terms of their kind of risk selection, their adherence to guidelines.
+2470800, 2475720, We really need to provide software that they'll enjoy using that will help them be more productive.
+2475720, 2479040, And so co-pilot is really the result of that.
+2479040, 2484600, Can you show us how you ingest a schedule and then what happens?
+2484600, 2492040, Sure. So for a for a schedule, let me pull out some spreadsheet, if I have anything handy here.
+2492040, 2509320, One second. So. What is this here?
+2509320, 2513080, Yeah. All right.
+2513080, 2522120, Yeah, they have a schedule here for for some apartment buildings that we had loaded earlier.
+2522120, 2526880, One second.
+2526880, 2531120, So this is just a spreadsheet with a schedule, I think it has the addresses and such.
+2531120, 2535320, Yeah, that's a bit. So in this case, an Excel sheet.
+2535320, 2542000, So an Excel sheet is pretty straightforward. If it was a PDF for an accord, it has to be, first of all, form that we've seen and typed.
+2542000, 2550360, But it's much slower. So if it's something like, you know, you have a PDF with 15 pages, that would not be two seconds.
+2550360, 2553720, It would be probably more like two minutes of loading.
+2553720, 2558520, But in this case, it was just I mean, this is a spreadsheet with real estate properties.
+2558520, 2563800, They don't have names. So it basically is just addresses that are detected as real estate.
+2563800, 2572000, It also, for example, name real estate property, you know, assess whatever the Freedom Tower, etc. Then then that's fine.
+2572000, 2575240, They basically will be showing the business name. But these ones are just kind of real estate.
+2575240, 2583360, So it has this kind of intermediate confirmation screen. Mainly, this is there for the PDFs for for Excel when data structure,
+2583360, 2585400, very high accuracy. So it's no real problem.
+2585400, 2589920, But when it's PDF, we have this confirmation to make sure that it was parsed properly.
+2589920, 2594840, Once that's confirmed, it just takes you exactly to the same.
+2594840, 2598800, And of course, I did it manually now by loading and dragging and dropping the cheat.
+2598800, 2603520, If you have integrated to a portal or integrated to the inbox, that's doing automatically.
+2603520, 2607480, But then, yeah, in this case, it's all real estate. So it goes back to the same screen that you saw before.
+2607480, 2611600, And then, you know, in this case is 28 locations.
+2611600, 2616120, Twenty six have no problem. But let's see what these two high crime ones are in Chicago.
+2616120, 2619840, This is all in Chicago. Yeah. So this is a rough part probably south side of Chicago.
+2619840, 2623000, So, you know, high assault, hard theft, because this is just real estate.
+2623000, 2626240, You know, there's some more basic information around the operations.
+2626240, 2629160, If they had some permits here, we would be surfacing them.
+2629160, 2633240, Or if, for example, there was a swimming pool in the place, we'll surface that.
+2633240, 2635680, But this is just kind of a pretty vanilla.
+2635680, 2643640, Having brought all this information together, can you show us where where it's then taken from this point,
+2643640, 2651400, which you've done an amazing job bringing the information in and providing context about the information with additional information?
+2651400, 2655480, All right. What's the next step when there how is that being used for rating?
+2655480, 2660400, Are you guys rating module or so? So we don't we integrate with one.
+2660400, 2662640, So, you see, obviously, I am not connected to any rating.
+2662640, 2666600, But generally speaking, what happens here is, you know, where there's no book section where, you know,
+2666600, 2670720, any other writer can just kind of take any kind of information for their archival.
+2670720, 2677240, You know, this is to all. We don't write this, whatever it might be.
+2677240, 2680320, But, yeah, generally speaking, what happens is any data point that's out here,
+2680320, 2685120, once the underwriter goes to move to rate, then we push to your rating system.
+2685120, 2688640, We are building rating integration, like inside the copilot.
+2688640, 2694520, So you can load in kind of a rating model that's not going to be available for another at least six months.
+2694520, 2697960, What we do right now with all our clients is that we push to your rating system.
+2697960, 2700920, So whatever relevant data points will basically push them there.
+2700920, 2707080, And then, you know, you issue the quote and such with your own agency management or policy.
+2707080, 2716840, So, so just so let's just the the let's say the information from a workflow standpoint comes in through.
+2716840, 2720680, You know, comes in through a submission inbox.
+2720680, 2726440, It gets loaded into an agency management system.
+2726440, 2731400, It pulls that data from the agency management system into copilot.
+2731400, 2739760, That's right. An underwriter analyzes, OK, this is this is an account I want to take a swing at.
+2739760, 2745880, Yeah. So I read it. If it's an account, I want to decline.
+2745880, 2748320, You read it, though, you have to then what?
+2748320, 2755360, Push the information back to your rating system and your agency management system.
+2755360, 2757760, Yeah. So, I mean, it basically can be done in multiple ways.
+2757760, 2761680, You know, we can integrate either to take the data in and put the data back in.
+2761680, 2765280, So it's not like there's any manual data extraction that you need to do with push.
+2765280, 2771200, Oh, but is that is do you have a very flexible web service or how does that how do you do that?
+2771200, 2777440, Yeah, that's right. So we have we have the basically we have APIs behind this that can then connect to your
+2777440, 2783840, to your either agency management system or, you know, you have just like an Excel model that you're doing rating in.
+2783840, 2786200, And then we'll basically push through that through Microsoft.
+2786200, 2794440, How difficult have you guys found it? API to insurance systems?
+2794440, 2798560, Not very difficult. I mean, certainly there are some that are harder than others.
+2798560, 2805920, The older the worse. But John is speaking for for the most part, we've integrated with all the major ones at this point.
+2805920, 2809800, And some of the major ones that you've done.
+2809800, 2814760, Duck Creek, Guy Wire for the agency management. Blank in right now.
+2814760, 2817760, And it was the agency management one that we did recently.
+2817760, 2821120, One change. MGA systems or something. MGA systems. That's right.
+2821120, 2824240, MGA systems. What do you guys use?
+2824240, 2830760, I guess it might be dead meat. Currently we currently we're using AIM, which is a Vertifor product.
+2830760, 2836440, We're using Blue Goose and we're using Omni.
+2836440, 2847160, We're looking at we've used MGA systems in the past at Swain Crawford and ISI, I believe, used MGA systems.
+2847160, 2853120, We're looking at I-Engineering. We're looking at a company called.
+2853120, 2860480, Instanda. Instanda.
+2860480, 2866400, You know, so those are just some of the names that have come across I-Engineering.
+2866400, 2869880, I think we've heard of them, but we have not integrated with them yet.
+2869880, 2873200, I think we had one or two folks who mentioned them.
+2873200, 2879480, But I think, you know, what we've observed is that usually folks are pretty flexible in terms of, you know,
+2879480, 2884840, getting information in and out. And so we can likely support that.
+2884840, 2885840, Cool. Thank you.
+2885840, 2893880, It's the carrier. It's the carrier reading is the harder nut to crack, I think, because they just don't give you access a lot of times.
+2893880, 2898680, Any interactions with net rate? No.
+2898680, 2905160, Or what about Appulate? Appulate, we haven't done a full integration yet,
+2905160, 2911920, but we'll likely will in the coming months because there's one of our clients that recently licensed it.
+2911920, 2917360, Thank you.
+2917360, 2921800, Excellent. Any other questions that we can answer for you at this time?
+2921800, 2925600, Tell us about how you price it. It's a SaaS solution.
+2925600, 2928360, So it's basically a flat fee, kind of an annual license.
+2928360, 2932840, And the real parameter that influences that is the size of the book that we're helping you write.
+2932840, 2938400, So, of course, you know, an MGA that's writing $10 million and not pay the same thing that AIG would.
+2938400, 2941000, And that's basically... I think you cut off there.
+2941000, 2944120, Oh, sorry. Can you hear me? Yeah, I can hear you.
+2944120, 2949240, But I was... So you do it based on premium size or number of users or...
+2949240, 2953480, Premium size, premium size. So it's a tier system. So, you know, for you, basically,
+2953480, 2958960, 10 million book will be different from 100 million book, which is different from a billion dollar book.
+2958960, 2961760, What's the price for a 10 million dollar book?
+2961760, 2967160, Price for a 10 million dollar book, the annual price is around 50 to 60 thousand dollars.
+2967160, 2971240, Depends on the line.
+2971240, 2977040, And is that is that just the licensing cost? Is there set up cost?
+2977040, 2982360, That's all that is just one fee and everything comes in in terms of, you know, obviously the set up,
+2982360, 2987440, the integration, as well as, you know, all the data that you see here plus more comes in.
+2987440, 2990240, There's no separate kind of data license or anything like that.
+2990240, 2994400, And it's all the users and all the usage for that book that you want.
+2994400, 2999200, And of course, if you say, hey, you know, have it for 10 million for, I don't know, my restaurant,
+2999200, 3002920, Barton Tavern book or my program or the specific operating company.
+3002920, 3005760, And I like it. And I want to use it for contractors for this one.
+3005760, 3011600, And that's another 15 million dollar book. Then OK, that's an incremental license.
+3011600, 3014800, How much did you say the license was? I'm sorry.
+3014800, 3020000, Depending on what the line is, would be on the order of 50 to 60 K per year for a million.
+3020000, 3022280, OK, thank you.
+3022280, 3027600, And then how many clients do you have? How long you guys been in business?
+3027600, 3030000, Sure, we're in business for about two years.
+3030000, 3034000, We have about I think now we have about a dozen clients.
+3034000, 3036600, It's a mix of M.J.s and carriers. It's still mostly carriers.
+3036600, 3040960, So I think we have nine carriers now and three M.J.s.
+3040960, 3044560, We started really doing M.J.s only about the beginning of the year in earnest.
+3044560, 3052000, Actually, one of the first deep M.J. conversations we had was actually at ICC with Rob, you know, a year ago or so.
+3052000, 3055840, And then, yeah. So, I mean, obviously, it's a mix.
+3055840, 3060440, We're working with some large multinational carriers.
+3060440, 3061880, Sorry, am I cutting off again?
+3061880, 3065960, No, yeah, I can hear him. It must be your.
+3065960, 3070360, He's coming through fine.
+3070360, 3077440, Can you just do a quick what would you what would you this is kind of more for property and for restaurants.
+3077440, 3080640, What about for construction? What do you show for construction?
+3080640, 3084440, Sure. So I'm not even ready here, but we'll be happy to show you kind of subcontractors.
+3084440, 3090800, What might be helpful if you guys if you guys think it would be worthwhile, if you have any businesses,
+3090800, 3095880, you know, subset, some restaurants, some contractors that you have already in your books,
+3095880, 3102800, you can send us over and we can show you a demo on those businesses so that you see exactly what you have for businesses that you have in your book.
+3102800, 3107840, Yeah, that will probably work at some point. That's a great idea.
+3107840, 3112160, But those are those are the three, you know, it's not surprising that you come across them.
+3112160, 3116120, Those are the three top areas that we deal with in our binding authority book.
+3116120, 3123800, It's contractors, you know, habitational and.
+3123800, 3127320, Hospital 100 percent. And we do extensively.
+3127320, 3134000, We do those extensively. And in terms of your question, your question of insights around contractors and construction,
+3134000, 3140880, generally a lot of that pertains to kind of the permitting, their licenses, the type of work that they do.
+3140880, 3146960, Certainly, if there's any kind of lawsuit or litigation in place and just trying to give you a better sense for kind of,
+3146960, 3158240, you know, how what is their business profile, their employees, equipment they may use, et cetera.
+3158240, 3161720, That'd be great. Absolutely.
+3161720, 3167080, Show now or no. I'm sorry, say that again.
+3167080, 3171600, It is there. Do you have a demo one that you could show now or I don't I don't.
+3171600, 3176240, I don't have a demo for construction right now, but we can do is, as I mentioned, if you send us some contractors,
+3176240, 3183720, we can set up a follow up conversation and show you.
+3183720, 3192320, Well, very good. And as you guys think about kind of that that phase two of your evolution,
+3192320, 3201640, as you invest further in technology, what is most top of mind there in terms of kind of the business capabilities that you want to support in terms of.
+3201640, 3211160, This is one of the speed of speed of response and underwriting is is, you know, critical at multiple levels.
+3211160, 3221560, You know, certainly from a throughput standpoint, number one, but as equally important is just responsiveness.
+3221560, 3229120, I mean, service responsiveness is is one of the most important pieces of success in our business.
+3229120, 3243400, So if this can help us with service responsiveness and how quickly we got to we we get to indicate and quote, that's a that's a big value prop for us.
+3243400, 3254600, So so I, you know, I definitely see that and I see that, you know, clearly, you know, it could it could increase the speed at which people process information.
+3254600, 3264960, You know, I'm a big believer in that. You know, I was selling that concept, you know, back in the early 2000s with advice, with much clunkier technology.
+3264960, 3272360, But, you know, but but it definitely definitely has its impacts.
+3272360, 3279880, Makes sense. The other stuff for us is primarily more API oriented.
+3279880, 3283880, You know, the the industry is there.
+3283880, 3299360, The reason I asked you about what, you know, stuff you've you've interfaced with is that, you know, even here in 2020, it's really nascent that the legacy systems are able to API.
+3299360, 3302760, Yeah. You know, you named a creek and guidewire.
+3302760, 3306200, Those are kind of two of the modern ones in the last decade.
+3306200, 3311040, But, you know, if you if you talk about any of the old ones, you know, they don't have any APIs at all.
+3311040, 3325720, The vertical products, the the applied system products, you know, that dominate the industry, the the, you know, there are other ones out there that, you know, the old exchanging underwriting systems genius and Iris.
+3325720, 3331480, And, you know, I could go on thinking of other ones.
+3331480, 3340760, And so, you know, we need to be able to connect with those with those systems better than we do today.
+3340760, 3346120, And so that's both on the client side and on the underwriter side.
+3346120, 3348200, So that's pretty important to us.
+3348200, 3359720, And, you know, self-service and everybody talks about a portal, but certainly we'd like to have a very good portal that people can do self-service off of.
+3359720, 3363600, But that's no different than every insurance company saying, use my system.
+3363600, 3366080, Right. Because you're just one vendor in the marketplace.
+3366080, 3374520, And so that ends up being the retail broker sitting there having to work with 16 different systems, which doesn't work right.
+3374520, 3380840, Unless you can API into their system and it's seamless to the to the individual, which it's not today.
+3380840, 3383800, So so that stuff is very important to us.
+3383800, 3386160, But but this is a core piece.
+3386160, 3391320, And I'm very really excited to have been exposed to it this morning.
+3391320, 3396520, Very impressed with the elegance at which you guys put it together.
+3396520, 3404920, And, you know, I have a good feeling that we'll be we'll be taking it for a test run.
+3404920, 3414040, We'll be trying to see if we can apply it in some of our areas and see if it gives us the the impact that that looks like it could.
+3414040, 3415760, Absolutely. Appreciate that feedback.
+3415760, 3418280, And we're certainly excited about that as well.
+3418280, 3423600, I was curious how many underwriters you currently have kind of across the different operating companies.
+3423600, 3425320, Individuals?
+3425320, 3429400, Individuals. Yeah, I just understand kind of what the universe looks like.
+3429400, 3437280, Well, you know, our trucking book, our commercial transportation book is we do about two hundred and seventy five million gross premium today.
+3437280, 3442040, And our commercial transportation book is about one hundred and ten of that.
+3442040, 3447400, So in commercial transportation, we pro depends what you qualify as an underwriter.
+3447400, 3453160, But they use the term broadly to our binding authority underwriters.
+3453160, 3460760, We probably have.
+3460760, 3464920, Probably 15 to 20, somewhere in that range.
+3464920, 3476680, And then our commercial binding business, which is pretty much everything else, it's probably, you know, another 30 in commercial binding.
+3476680, 3479920, So we're probably a 50 underwriters on.
+3479920, 3491520, But as you think about the books, you know, contractors is probably, I don't know, 20 million in gross written premium.
+3491520, 3496200, And bars and taverns is probably 15 million gross written premium.
+3496200, 3499840, And, you know, habitation maybe is 30 million.
+3499840, 3507640, And then there's a more restored of other lines and segments that we deal with.
+3507640, 3510600, So absolutely makes sense.
+3510600, 3517680, And I think, you know, as we see it, underwriters are really at the heart of building a profitable and fast growing insurance business.
+3517680, 3526400, And so if we can support your underwriters and perhaps help them tackle more of that volume of deal flow that's coming in and turn that around faster,
+3526400, 3532240, they can capture kind of a greater conversion rate and buy a higher quality business.
+3532240, 3541880, And then as you ramp up the business, you may not need to then ramp up underwriters as proportionally as you have before, because each underwriter is just empowered to do more.
+3541880, 3546920, Certainly don't need to add a lot of support staff to process the.
+3546920, 3549800, Hey, Tom, you have a hard stop now at noon.
+3549800, 3557840, Yeah. All right. So I'm going to jump. I will say, you know, at some point, if we can get that far, we could be a great partner for you guys on commercial transportation.
+3557840, 3561880, It could be interesting. That sounds great.
+3561880, 3566640, Well, thank you both. Thank you all.
+3566640, 3574000, Congrats. Take care. Thank you. Take care. And then Rob, we'll circle back afterwards and let us know how we can get to the next steps.
+3574000, 3593000, Thank you. Take care. Bye.
