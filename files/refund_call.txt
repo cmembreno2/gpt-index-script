@@ -1,0 +1,35 @@
+0, 4000, MUSIC
+7000, 8000, Excuse me?
+8000, 10000, Oh, hi there. How can I help you?
+10000, 12000, I bought this jacket yesterday and I'd like a refund.
+12000, 14000, Oh, okay. What was wrong with it?
+14000, 17000, Well, when I bought it, it had a massive rip in it.
+17000, 21000, Oh, I'm sorry about that. Do you have your receipt?
+21000, 23000, Well, that's the thing. When I bought it, I wasn't given a receipt.
+23000, 25000, Oh, that's strange.
+25000, 28000, We should be giving you a receipt when you make a purchase here.
+28000, 32000, In any case, our refund policy actually states that you need a receipt.
+32000, 35000, I don't know what to tell you. I mean, I've got a jacket with a rip in it
+35000, 38000, and I wasn't given a receipt, so...
+38000, 42000, All right. Well, let me just speak to my manager
+42000, 44000, and I'll see what I can do for you.
+44000, 45000, Sure.
+45000, 48000, Oh, but before I do that, are you able to show me your bank transaction details
+48000, 51000, which prove you bought the jacket at our store?
+51000, 53000, Yeah, just give me a second.
+53000, 57000, There you go.
+59000, 62000, Okay, thank you. I'll be one moment.
+68000, 69000, How'd you go?
+69000, 72000, Okay, so I've spoken to my manager and I've got good news.
+72000, 76000, First of all, we're so sorry about the rip that shouldn't have happened to you at all.
+76000, 78000, Yeah, that was kind of annoying.
+78000, 82000, But we can definitely refund you since you could show us your bank transaction details.
+82000, 83000, Perfect.
+83000, 85000, All right, so how do you like me to process this one?
+85000, 88000, We can do cash, store credit, or we can just swap it for a new one.
+88000, 91000, I think I just want my money back, so a refund, please.
+91000, 92000, Okay.
+92000, 95000, I'll get you to fill out this refund form.
+95000, 97000, And we'll go from there.
+97000, 98000, Sure.
+98000, 118000, Thanks very much.

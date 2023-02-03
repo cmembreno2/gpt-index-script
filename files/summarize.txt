@@ -1,0 +1,31 @@
+Someone I work with wrote the below for our internal team (shared with permission) and I thought some here may find it helpful.
+
+Recently, I built an app that uses GPT-Index & LangChain to provide an answer to a question based on a piece of text as context. I found GPT-Index to be much easier and straightforward to integrate, but it seems like LangChain has more features and is more powerful. Here's my experience integrating both of them.
+
+GPT-Index
+
+First thing I did was review their docs to make sure I understood what GPT-Index was, what it could do, and how I was going to use it
+
+I went back and forth a couple times figuring out how I was going to use it. Then I found the quickstart guide
+
+It seemed like the quickstart guide would work so I followed the guide and after a few tries, I was getting solid responses to the questions I asked it
+
+LangChain
+
+I followed the same step, reviewing their docs. LangChain's docs has more to it because it seems like it does more, so this step took longer
+
+It was tough for me to figure out how I needed to use LangChain. I had to ask for some help to better understand our use case
+
+Once I thought I knew how I was going to use LangChain, I began coding. I ran into more errors with LangChain
+
+It seems that my first approach wasn't correct, so I switched to something similar and I was finally getting a response. The response was 'I don't know'... I didn't know what to do about it
+
+Then I checked out the logs of the data being passed through and found that the context was being cut off.
+
+To make sure it worked, I asked a question relating to the text that was getting passed through. The response seemed to make sense, so now I know better where the issue is at
+
+I still need to fix the context being cut off. I followed the docs of LangChain very closely, so I'm wondering if the docs are old or if I have the wrong implementation
+
+So overall, if GPT Index solves your use case, start with that. We also did a variant built without GPT-Index and without langchain, and that one worked well too. We occasionally share stuff like this on genainews.org though the newsletter is mostly about new ai startups and products so figured it good to post here.
+
+Anyone else here that's worked with both GPT-Index and langchain and can offer additional thoughts?
