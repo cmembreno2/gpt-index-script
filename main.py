@@ -2,9 +2,9 @@
 import os
 import openai
 from dotenv import load_dotenv
-from gpt_index import GPTSimpleVectorIndex, SimpleDirectoryReader, GPTTreeIndex
+from gpt_index import GPTSimpleVectorIndex, SimpleDirectoryReader
 
-from gpt_index.readers.database import DatabaseReader
+#from gpt_index.readers.database import DatabaseReader
 # use cases to gpt index data structures : GPTSimpleVectorIndex, GPTListIndex, GPTTreeIndex
 
 # initializing variables
