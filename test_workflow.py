@@ -113,6 +113,6 @@ List of functions
 #list_blobs(bucket_name)
 #download_blob(bucket_name,file_name_bucket,file_name_local)
 #create_index(directory,index_name)
-upload_index_to_bucket(index_name_bucket, file_name_local, bucket_name)
 #query_index(index_name,query)
+#upload_index_to_bucket(index_name_bucket, file_name_local, bucket_name)
 
