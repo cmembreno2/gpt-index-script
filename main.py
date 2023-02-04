@@ -17,10 +17,10 @@ documents = SimpleDirectoryReader(directory).load_data() # step 1 load in docume
 #index = GPTTreeIndex(documents)
 index = GPTSimpleVectorIndex(documents) # step 2 index Construction - step 3 building indices on top of other indices (optional step)
 #response = index.query("Please summarize the document", mode="summarize")
-response = index.query("Please summarize how LaMDA works") # step 4 query the index
+response = index.query("Please summarize the call") # step 4 query the index
 print(response)
 
 # save to disk
-index.save_to_disk('index_lambda.json')
+index.save_to_disk('index_call.json')
 # load from disk
-index = GPTSimpleVectorIndex.load_from_disk('index_lambda.json')
+index = GPTSimpleVectorIndex.load_from_disk('index_call.json')
