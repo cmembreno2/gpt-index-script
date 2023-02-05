@@ -5,15 +5,16 @@ import os
 import openai
 from dotenv import load_dotenv
 from gpt_index import GPTSimpleVectorIndex, SimpleDirectoryReader
+import glob
 
 # set up google client with credentials, open ai
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'credentials/credentials.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'credentials/maya.json'
 storage_client = storage.Client()
 load_dotenv()
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # variables to run script - these will be the arguments to run script
-bucket_name = "test-bucket-dataset-cm-1" 
+bucket_name = "maya-ai-demo-datasets"
  
 # function to get all buckets in project 
 def list_buckets():
@@ -31,7 +32,17 @@ def list_blobs(bucket_name):
         return blobs
     except Exception as e:
         print(f'Error listing blobs in bucket: {e}')
-        return e    
+        return e 
+
+# function to download a blob
+def download_blob(bucket_name,file_name_bucket,file_name_local):
+    try:
+        bucket = storage_client.bucket(bucket_name)
+        blob = bucket.blob(file_name_bucket)
+        blob.download_to_filename(file_name_local)
+        return True
+    except Exception as e:
+        return False   
 
 # function main  
 def main_script(bucket_name):
@@ -47,9 +58,12 @@ def main_script(bucket_name):
         # verify that required bucket exist in project
         bucket_exists = bucket_name in buckets_in_project 
         if bucket_exists:
+            blobs_in_bucket = []
             blobs = list_blobs(bucket_name)
             for blob in blobs:
-                print(blob.name)
+                blobs_in_bucket.append(blob.name)
+            file_list = glob.glob('data/*[1-5].txt')
+            print(len(file_list))
         else:
             print('Bucket does not exist in project, end of process')
     except Exception as e:
