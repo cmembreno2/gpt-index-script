@@ -62,8 +62,11 @@ def main_script(bucket_name):
             blobs = list_blobs(bucket_name)
             for blob in blobs:
                 blobs_in_bucket.append(blob.name)
-            file_list = glob.glob('data/*[1-5].txt')
-            print(len(file_list))
+            for index, blob in enumerate(blobs_in_bucket):
+                download_blob(bucket_name,blob,'data/file'+str(index)+'.txt')
+            file_list = glob.glob('data/*.txt')
+            print(f'Total Files: {len(file_list)}')
+            print(file_list)
         else:
             print('Bucket does not exist in project, end of process')
     except Exception as e:
