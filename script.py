@@ -19,6 +19,8 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 # variables to run script - these will be the arguments to run script
 bucket_name = "maya-ai-demo-datasets"
 folder = 'kalepa-dataset'
+#bucket_name = "test-bucket-dataset-cm-1"
+#folder = 'kalepa-dataset'
  
 # function to get all buckets in project 
 def list_buckets():
@@ -63,16 +65,50 @@ def main_script(bucket_name,folder):
         bucket_exists = bucket_name in buckets_in_project 
         # if bucket exists download the files from kalepa's folder
         if bucket_exists:
+            files_download = []
             blobs_paths_bucket = []
+            txt_files = []
+            json_files = []
+            txt_base_names = []
+            json_base_names = []
             prefix = folder+'/'
             blobs = list_blobs(bucket_name, prefix)
             for blob in blobs:
                 blobs_paths_bucket.append(blob.name)
             for blob in blobs_paths_bucket:
-                blob_name = blob
-                split_name = blob_name.split('/')
-                file_name = split_name[1]
-                download_blob(bucket_name,blob,'data/'+file_name)
+                # get the files with extension .txt
+                extensionsToCheck = ['.txt']
+                for extension in extensionsToCheck:
+                    if extension in blob:
+                        txt_files.append(blob)
+                # get the files with extension .json
+                extensionsToCheck = ['.json']
+                for extension in extensionsToCheck:
+                    if extension in blob:
+                        json_files.append(blob)
+            # prepare txt files to be compared with json files
+            for file in txt_files:
+                split_name = file.split('/')
+                file_path = split_name[1]
+                file_name = file_path.split('.')
+                base_name = file_name[0]
+                txt_base_names.append(base_name)
+            # prepare json files to be compared with txt files
+            for file in json_files:
+                split_name = file.split('/')
+                file_path = split_name[1]
+                file_name = file_path.split('.')
+                base_name = file_name[0]
+                json_base_names.append(base_name)
+            # verify the .txt files that need an index
+            for file in txt_base_names:
+                if file in json_base_names:
+                    print(f'Index already in GCS for : {file}')
+                else:
+                    files_download.append(file)
+            # download the .txt files that need an index
+            for file in files_download:
+                download_blob(bucket_name,blob,'data/'+file+'.txt')
             # for each downloaded file create an index.json file and save it in directory
             for filename in os.listdir('data/'):
                 f = os.path.join('data/',filename)
@@ -88,10 +124,7 @@ def main_script(bucket_name,folder):
                         file_name = split_name[1]
                         split_index_name = file_name.split('.')
                         index_name = split_index_name[0]
-                        index.save_to_disk(f'indexes/{index_name}-index.json')
-            """
-            TODO: INSERT HERE THE CODE TO UPLOAD INDEXES TO BUCKET
-            """
+                        index.save_to_disk(f'indexes/{index_name}.index.json')
         # if bucket does not exist print a message and finish process
         else:
             print('Bucket does not exist in project, end of process')
