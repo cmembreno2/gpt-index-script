@@ -4,6 +4,11 @@ from google.cloud import storage
 import os
 import openai
 from dotenv import load_dotenv
+from gpt_index import GPTSimpleVectorIndex, SimpleDirectoryReader, Document
+from gpt_index import (
+    LLMPredictor
+)
+from langchain import OpenAI
 
 # set up google client with credentials, open ai
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'credentials/maya.json'
@@ -68,9 +73,25 @@ def main_script(bucket_name,folder):
                 split_name = blob_name.split('/')
                 file_name = split_name[1]
                 download_blob(bucket_name,blob,'data/'+file_name)
-                """
-                TO DO: add the code here to create the index for .txt files and upload them to bucket
-                """
+            # for each downloaded file create an index.json file and save it in directory
+            for filename in os.listdir('data/'):
+                f = os.path.join('data/',filename)
+                if os.path.isfile(f):
+                    with open(f, encoding="utf-8") as file:
+                        file_text = file.read().rstrip()
+                        text_list = [file_text]
+                        documents = [Document(t) for t in text_list]
+                        llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-003"))
+                        index = GPTSimpleVectorIndex(documents,llm_predictor=llm_predictor)
+                        file_name = f
+                        split_name = file_name.split('/')
+                        file_name = split_name[1]
+                        split_index_name = file_name.split('.')
+                        index_name = split_index_name[0]
+                        index.save_to_disk(f'indexes/{index_name}-index.json')
+            """
+            TODO: INSERT HERE THE CODE TO UPLOAD INDEXES TO BUCKET
+            """
         # if bucket does not exist print a message and finish process
         else:
             print('Bucket does not exist in project, end of process')
