@@ -20,6 +20,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # variables to run script - these will be the arguments to run script
 bucket_name = "maya-ai-demo-datasets"
+folder = 'kalepa-dataset'
  
 # function to get all buckets in project 
 def list_buckets():
@@ -31,9 +32,9 @@ def list_buckets():
         return e      
 
 # function to list blobs in bucket
-def list_blobs(bucket_name):
+def list_blobs(bucket_name,prefix):
     try:
-        blobs = storage_client.list_blobs(bucket_name)
+        blobs = storage_client.list_blobs(bucket_name, prefix=prefix, delimiter='/')
         return blobs
     except Exception as e:
         print(f'Error listing blobs in bucket: {e}')
@@ -50,7 +51,7 @@ def download_blob(bucket_name,file_name_bucket,file_name_local):
         return False   
 
 # function main  
-def main_script(bucket_name):
+def main_script(bucket_name,folder):
     try:
         # get buckets in project
         try:
@@ -64,28 +65,20 @@ def main_script(bucket_name):
         bucket_exists = bucket_name in buckets_in_project 
         if bucket_exists:
             blobs_in_bucket = []
-            blobs = list_blobs(bucket_name)
+            prefix = folder+'/'
+            blobs = list_blobs(bucket_name, prefix)
             for blob in blobs:
                 blobs_in_bucket.append(blob.name)
-            for index, blob in enumerate(blobs_in_bucket):
-                download_blob(bucket_name,blob,'data/file'+str(index)+'.txt')
-            with open('data/file1.txt', 'r') as file:
-                data1 = file.read().rstrip()
-            with open('data/file7.txt', 'r') as file:
-                data2 = file.read().rstrip()
-            with open('data/file8.txt', 'r') as file:
-                data3 = file.read().rstrip()
-            text_list = [data1, data2, data3]
-            documents = [Document(t) for t in text_list]
-            llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-003"))
-            index = GPTSimpleVectorIndex(documents,llm_predictor=llm_predictor)
-            response = index.query('What the documents are about?')
-            print(response)
-
+                blob_name = blob.name
+                split_name = blob_name.split('/')
+                file_name = split_name[1]
+                print(file_name)
+            #for index, blob in enumerate(blobs_in_bucket):
+                #download_blob(bucket_name,blob,'data/file'+str(index)+'.txt')
         else:
             print('Bucket does not exist in project, end of process')
     except Exception as e:
         print(f'Error executing main: {e}')   
 
 if __name__ == "__main__":
-    main_script(bucket_name)
+    main_script(bucket_name,folder)
