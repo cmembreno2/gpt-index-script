@@ -1,0 +1,816 @@
+0, 11760, What you guys through kind of we've updated the docs here, added a few things and actually
+11760, 15440, have gone deeper on a lot of materials around guidelines that Jason shared.
+15440, 17360, Thank you for checking those Jason.
+17360, 21360, I wanted to talk through those because they tie nicely into a lot of features that we're
+21360, 25560, developing a number of things that we can add really off the bat and we had a bunch
+25560, 29960, of questions for you guys on that front.
+29960, 34240, The thunder there, I just kind of give you a preview is implementing the guidelines that
+34240, 39360, you guys have in Copilot is actually quite straightforward already.
+39360, 43520, It will be even more straightforward in a couple of weeks because there's going to be
+43520, 48320, an ability for you guys to actually edit guidelines and appetite directly and that push through
+48320, 50600, to all the underwriters.
+50600, 54160, One important thing there is that we have noticed and wanted to confirm with you guys
+54160, 57640, as we started looking at the renewals, we wanted to make sure that we were understanding
+57640, 62720, all the details of those guidelines correctly, but there seem to be some areas where unsurprisingly,
+62720, 68560, if you have a submission of 300 locations, checking each individual one of them to see
+68560, 73800, what county it's in and then checking to see kind of each of these reports might not happen
+73800, 78880, consistently and I think that's one area where I mean Copilot doesn't care if it's one location,
+78880, 83000, two locations, 500 locations, it can check everything consistently, accurately every
+83000, 84000, time.
+84000, 85000, Yeah, that's a good point.
+85000, 86000, Good.
+86000, 90880, And just before I forget, so I did talk to Dan last week or end of last week.
+90880, 91880, We're trying to find a tie.
+91880, 98680, He had a couple of conflict days, but we're trying to get somebody probably either late,
+98680, 102440, probably in the next week or the very beginning of the following week.
+102440, 105480, That's kind of what we're getting at, but we should hopefully we'll get that locked
+105480, 109560, down to just try to get the full team there.
+109560, 111360, That sounds great and we're very flexible.
+111360, 112920, So let us know what works in your end.
+112920, 115360, Yeah, just want to make sure.
+115360, 121880, Seems like most people are actually working the week before Christmas or not like usual
+121880, 124400, where that whole two week block seems to be.
+124400, 129360, We're all done on Christmas week, not going to happen.
+129360, 134400, I guess the notion of weekends, weekdays, holidays, it's kind of all melded together
+134400, 135400, this year.
+135400, 136400, Yeah, they all feel the same.
+136400, 137400, It's kind of good.
+137400, 144760, You know, it used to be you get to Sunday night and be like that tomorrow, you know,
+144760, 145760, got to do it right now.
+145760, 146760, It doesn't really matter.
+146760, 149760, You know, on Mondays they're more variable.
+149760, 156480, We were talking this morning and actually a prospective investor was reaching out and
+156480, 160560, we're talking to her this morning and she asked like, they said, well, we just wrote
+160560, 163880, some white blanket kind of thing behind her.
+163880, 168240, Well, we're supposed to be doing like a professional thing and they didn't look good in my background
+168240, 172520, and I have like a nine month old baby and my husband had to take care of my.
+172520, 175520, Yeah, that's how it works these days.
+175520, 176520, Wonderful.
+176520, 181280, So let me go ahead and share my screen and I think it will look quite familiar to what
+181280, 183680, you've seen before, but I wanted to highlight a couple of things.
+183680, 186440, Let me know when you're able to see.
+186440, 190320, Yep, we can see.
+190320, 194160, So this is unchanged from what you guys have.
+194160, 195680, This is unchanged.
+195680, 197040, So you have seen all this.
+197040, 201880, So the numbers, so we updated, this is updated up to December 6.
+201880, 204880, So three days ago, we did as of three days ago.
+204880, 207880, Interestingly, you know, I mean, the numbers change a little bit.
+207880, 212240, One thing that we noticed is it might just be the time of the year, but you know, before
+212240, 216720, we had a snapshot in October and now we have kind of October, all in November, few days
+216720, 224080, in December, the duration, the time that a quote spends in, not a quote, that a risk
+224080, 227200, spends in that submission stage.
+227200, 228840, Before we had nine days on average.
+228840, 230760, Now the average is about 13.
+230760, 234640, And we're looking at that before it was, it went from nine to four and a half or a little
+234640, 235640, bit under four and a half.
+235640, 240000, It was about 54% with more data.
+240000, 244280, It's actually a 44% decline, but from a larger base from 13 days to over 7.3.
+244280, 245960, That's kind of the top down.
+245960, 248280, It's just looking at that stage.
+248280, 251960, Time spans basically, you know, from the time it shifted to submission to the time
+251960, 257160, it shifted from submission to something else, which is generally quoted or closed lost.
+257160, 258160, That's what we saw there.
+258160, 259160, Yeah.
+259160, 260160, Any thoughts about that, Jason?
+260160, 264840, Because I think we've noticed that in our go no go, you know, that they've kind of upticked
+264840, 265840, as well.
+265840, 269880, I'm just trying to use anything that's specific to that or.
+269880, 273560, I don't, you know, and I don't know if it's just when you get to a certain time of year
+273560, 278320, that this is just kind of what we run into when there are certain amount of transactions
+278320, 283560, that kind of has an effect on all of them at once slowly but surely.
+283560, 288440, But yeah, we did notice that in our numbers as well.
+288440, 290120, There were some outliers.
+290120, 292360, So we've actually excluded outliers here.
+292360, 296400, I think the outliers, John is speaking, you know, make sense.
+296400, 301560, It tends to be in some cases the outlier was just when you look at the data is clearly
+301560, 305040, something where the status just hadn't been updated.
+305040, 308080, The classic example for that were, for example, some of the accounts that got transferred
+308080, 309760, to Michael Sharp.
+309760, 314240, So they had been already in processing by a previous underwriter and got reassigned.
+314240, 318440, So the time in submission is artificially longer.
+318440, 319440, So some of them were weak.
+319440, 323360, If you look at WICOpilot, some of them were before Copilot, but we just removed those
+323360, 324840, because they were basically there.
+324840, 328080, And there were a handful of submissions that were just massive.
+328080, 330860, So it might also be that some of the larger submissions are there.
+330860, 336320, So I think, for example, this is a Bluestone renewal, which is like a million dollar submission.
+336320, 339320, I think that's the biggest submission that you guys have, the biggest risk that you guys
+339320, 341600, have that's on Daniel's plate.
+341600, 346840, And unsurprisingly, it takes longer just by virtue of it basically being a million dollar
+346840, 348480, account.
+348480, 352640, So it's possible that some of the impact that you see is just also the fact that maybe there's
+352640, 356720, more, but more likely it might be just the fact that, you know, it might be just time
+356720, 359480, of year you guys got some larger accounts that take longer.
+359480, 360960, That's also possible.
+360960, 361960, Yeah.
+361960, 366560, And there are some one-ones and some accounts at this time of year that are larger and would
+366560, 368720, have an impact on that as well.
+368720, 373620, We also have some new underwriters that joined in the last few weeks.
+373620, 378120, So if they're getting things assigned and maybe not getting to them yet, you might see
+378120, 379800, an additional leg there as well.
+379800, 380800, Got it.
+380800, 385000, So the comparison here, you know, at this point, the phase one underwriters, other than
+385000, 388160, Carol, I mean, Carol, I think the issue is that the submissions, frankly, I think she
+388160, 390920, sends everything to Rush and we don't get it.
+390920, 395680, So but other than Carol, when you compare the submissions that the underwriters in phase
+395680, 400460, one have, the bulk of those with some of the exclusions I mentioned, and you compare kind
+400460, 407760, of the comparable group, this is kind of the difference that you see, the 13 to 7.3.
+407760, 411560, And kind of when looking at the cycle time, I want to be clear kind of what communicating
+411560, 414600, here and it's possible that these might be misleading.
+414600, 418320, Obviously, there's time spent on the cycle.
+418320, 422360, So time spent from the time that you quote, which, of course, has implications to bind
+422360, 423360, rate and such.
+423360, 425080, And there's actual work, right?
+425080, 429680, Sometimes the time, you know, sometimes there's some days when something is taking a while,
+429680, 435000, but it's not like the underwriter is working 13 days straight on this, right?
+435000, 439200, It clearly, you know, at some point where they are waiting for, for example, GSSE, that
+439200, 440200, has that.
+440200, 441540, So we're reducing some of that weight.
+441540, 446840, But the actual decline in work, actual work is not 44%, it's about 20%.
+446840, 452320, So actual time spent by an underwriter and an AU, before I think it was 17, 18, I forgot
+452320, 454240, what we have for the previous numbers.
+454240, 456400, Now it's about 19.
+456400, 461400, But because now things, the time they're spending per quarter risk is not 13, it's not 30 days,
+461400, 463680, it's more like three to six.
+463680, 465440, And then that's down by 19%.
+465440, 468840, So once the clear is up, cycle time.
+468840, 471840, Exactly.
+471840, 473640, Exactly.
+473640, 477720, So we're seeing is the cycle time is down by 44 instead of 54.
+477720, 480440, So a little bit smaller, but from a larger base.
+480440, 481720, The calculation here is the same.
+481720, 487960, You know, obviously we can, as we have discussed, we can try to get more QBE specific benchmarks,
+487960, 489320, but here we're a little bit clearer.
+489320, 494620, What we typically see is that 0.3 to 0.5 per day for winning rush submissions that would
+494620, 499120, otherwise have been declined, another 0.3, 0.4% per day from quoting before other carriers
+499120, 500120, are winning.
+500120, 505280, That amounts, when you take that to six days decline, 3.4 to 5.1.
+505280, 507880, So from that 30 to that, that's how we get this number here.
+507880, 510260, So that's the premium impact.
+510260, 516280, And then now there's the efficiency impact, which is 19% less time spent by the underwriters
+516280, 518080, and AUs.
+518080, 522680, And we do 2,700 quotes a year, three to six person days, kind of from the bottom up.
+522680, 525880, This has remained the same we had before.
+525880, 534200, That's where we get the effective six to 13, you know, mad years, I guess, in a way, is
+534200, 535200, kind of the metric here.
+535200, 542720, And as we mentioned, we want to put this in whatever context makes sense to you guys.
+542720, 543720, Any questions so far?
+543720, 549400, I mean, this is the, as of, you know, three days ago, we obviously can update this before
+549400, 552400, the meeting, but certainly want to make sure that we're putting things in the right place.
+552400, 556400, This is good and gives some, yeah, yeah.
+556400, 561320, No, I'll make sense what I'm seeing here.
+561320, 563440, And then these slides is the same that you had.
+563440, 567520, These were looked from the surveys, basically, when we had low meetings.
+567520, 569800, We added here a few small changes.
+569800, 574920, So I had a few more examples that have happened since then in terms of, you know, surprising
+574920, 577120, items.
+577120, 582920, But I think given the discussion what I have on guidelines in a bit, I think by far, you
+582920, 588040, know, before we go to the, okay, we found something that changed our decisions significantly
+588040, 593080, and unexpected risk and needle in the haystack that, you know, will have lead to a big claim
+593080, 594680, of which there are many here.
+594680, 601000, Frankly, the fact that you guys look, you know, the fact that you guys have 13 day cycle
+601000, 606960, times that the mid-market submissions that the underwriters are receiving are sizable
+606960, 610200, and that the guidelines are actually fairly cumbersome.
+610200, 615120, I think one of the things that can add much more value and quality as a baseline is just
+615120, 619760, ensuring that guidelines are complied with every single time with no burden on the underwriter.
+619760, 624440, The underwriter doesn't have to trade off speed for ensuring that the guidelines are
+624440, 625520, met.
+625520, 628680, That's something that copilot can do automatically.
+628680, 629800, So where is it doing it?
+629800, 630800, Like when is it?
+630800, 636880, I should have probably paid more attention to how that.
+636880, 637880, No, no, no.
+637880, 639560, I think, I think it's a great question.
+639560, 640800, And let me, let me show you this.
+640800, 642800, I'm going to go backwards in this.
+642800, 646200, But I think this is your question as well.
+646200, 651000, Maybe it's not, but is to show where that information is coming from, from like what
+651000, 656280, data database is it a Google searches and actual, you know, like federal or state.
+656280, 657280, Yeah.
+657280, 661960, And, and, and kind of like, like how's, how's the guidelines like, like, what are you looking
+661960, 662960, for?
+662960, 664560, Like what's your structure of what you're trying to solve?
+664560, 665560, That makes sense.
+665560, 666560, Yeah.
+666560, 667560, Yeah.
+667560, 668560, Yeah.
+668560, 669560, No, no, no.
+669560, 672720, Let me, let me answer the first one on how we would implement the guidelines.
+672720, 676240, We haven't implemented the guidance for you guys yet, but let me tell you how we would
+676240, 677240, do it.
+677240, 680240, You guys basically have two options and both options.
+680240, 685880, And there's only a third one coming up soon, but we have reviewed the documents that Jason
+685880, 686880, sent.
+686880, 689480, Let me show you an example of how this will work.
+689480, 691760, So these are example of wildfire, right?
+691760, 698040, So wildfire, you know, the guideline is a seven page Google document that Jason shared
+698040, 699280, as we understand it.
+699280, 705040, You know, basically there are depending on which state, if it's California, then there
+705040, 708520, are sort of counties and the on the right has to check if the location is in those counties.
+708520, 711640, If so, they have to run a fire line report.
+711640, 716680, Either fire line report has a hazard score in the high or extreme, you decline the risk
+716680, 718160, or need to get an exception.
+718160, 723440, Similarly, if it's in a bunch of Western US states and the protection class is higher
+723440, 728240, than PC6, then they have to check the same fire line report.
+728240, 734760, Or if it's in Washington, except for some counties, protection protection class is P6
+734760, 735760, or higher.
+735760, 736760, They have to run it.
+736760, 740600, Or if it's in Oregon, except for something like half a dozen counties, right?
+740600, 743360, So that's the process as we understand it.
+743360, 749720, And I'm sure then there's, you know, as a first set of checks, and then there is, you
+749720, 751760, know, then there might be exceptions, right?
+751760, 754600, So to give you an example, you know, that's just wildfire.
+754600, 757520, And to us from looking at the guidelines, you're saying wildfire is like the easiest
+757520, 760640, guideline to check off of the ones that you check, right?
+760640, 763360, But you can imagine that, you know, let me show you an example here.
+763360, 767520, I think we have, for example, this again, we don't know.
+767520, 768600, This is an open question here.
+768600, 769600, So wanted to understand more.
+769600, 770600, This is the Chase store.
+770600, 775720, This is a review from renewables that we saw in the book.
+775720, 777200, This has a hundred locations.
+777200, 781360, So you know, a hundred locations right now.
+781360, 786960, Basically the hundred locations right now, presumably, you know, I don't know if it's
+786960, 789480, the AU, if it's the underwriter, if it's GSSE.
+789480, 792960, You have to look at each of the locations, see which counties you're in.
+792960, 796560, If the counties are eligible or you're in a far line, you run the far lines for those
+796560, 797560, reports.
+797560, 803280, If it meets the conditions, then you either ask for an exclusion or reject the risk.
+803280, 806400, So that's how we understand the process.
+806400, 809880, From what we've heard from the underwriters before, you know, you kind of, if you have
+809880, 813000, to do that for a hundred locations, you might not get the risk.
+813000, 814600, They might do it for 15% of them.
+814600, 817200, You look at the ones with the highest total insured value.
+817200, 819080, Totally reasonable, right?
+819080, 822280, In this particular case, for example, this is in the book and we don't know if there's
+822280, 823280, an exception.
+823280, 825400, We'd love to kind of, this is an open question, right?
+825400, 830120, But there is one location that with copilot data from our data right now, it shows that
+830120, 831720, it has a high wildfire risk.
+831720, 835000, It's a location in Thousand Oaks, California out of 101.
+835000, 836160, So maybe it is.
+836160, 842320, So what we would like to understand is one, because it's in California, was a far line
+842320, 843560, report requested for that?
+843560, 844560, We don't know.
+844560, 845560, Maybe it was.
+845560, 850880, So maybe you guys already knew that this had to be checked, but if not, copilot was automatically.
+850880, 855760, The second question is if it was checked, was it found to be in violation of guidelines?
+855760, 858240, We don't know, but you guys, I'm sure know that.
+858240, 860080, And if it did, then was there an exception?
+860080, 867240, And if it wasn't, then again, you know, this is one case where copilot is automatic, right?
+867240, 871080, And this is kind of going back to the ways to do it.
+871080, 876960, Right now, immediately right now, we could implement the guideline for wildfire exactly
+876960, 880440, as you have it written with the copilot wildfire data, right?
+880440, 883120, And we can discuss with your team is the scores that we have.
+883120, 888080, And we have kind of all the detail, all the detailed components that go into a wildfire
+888080, 896280, score, which would be, you know, the fuel load, the urban, urban, wild, urban wildline
+896280, 899000, interface, the slope, the wind.
+899000, 900200, We have those pieces.
+900200, 905440, And if you tell us, hey, you know, your team is happy to use our wildfire score, we can
+905440, 908040, implement these rules by next week.
+908040, 912160, And every single submission that comes in here, every single location will be checking
+912160, 913160, as the guidelines.
+913160, 914160, No problem.
+914160, 917960, Let's say you don't want to do that because the scores that you guys have, or because
+917960, 921400, the fire line piece is something that you need to have because your insurer asks us
+921400, 922840, to do that.
+922840, 927240, Any first party data that you add, if the submission has fire line or we're going to
+927240, 932960, be API, whatever way, you know, Excel API, any other way, we can apply the guidelines
+932960, 934120, on that as well.
+934120, 935880, So the underwriter will need to do anything.
+935880, 938440, I will still run the same things.
+938440, 943520, And what's going to be coming in the spring is actually we're adding this interface, which
+943520, 944520, is not live yet.
+944520, 946800, I will call it the flight plan.
+946800, 951120, You guys can modify the guidelines and that would apply to all the other ones.
+951120, 957320, You can say now not only if the county, if your chief underwriting officer says, not
+957320, 961200, only I want to make that screen a little bit larger, so I just want to kind of be able
+961200, 963680, to read the, yeah, yeah, this is quite whatever.
+963680, 973320, Yeah, this right now is kind of, let me put it in a blank slide.
+973320, 978760, And that way if underwriting leadership says, okay, you know, we do not want to write anything
+978760, 984640, in this county, copilot will automatically scan every submission to figure out when on
+984640, 990600, a Friday morning at 8.30 a.m. you get a submission that happens to have scheduled locations in
+990600, 992400, the county that'll flag it for the underwriter.
+992400, 996280, They don't always need to search for it.
+996280, 1001040, So basically right now we can implement these rules like the guidelines as you have them.
+1001040, 1003600, We can implement those kind of on our end.
+1003600, 1004600, There we go.
+1004600, 1005600, Hard code them.
+1005600, 1010680, But you will be able to actually modify those directly yourself.
+1010680, 1016840, So the self-serve version is coming in probably early February, May February.
+1016840, 1021240, But even now, like for example, the WALFR guidelines as you have them, we could add
+1021240, 1027040, that next week just based on the WALFR data we have, which of course is not exactly the
+1027040, 1031120, same as FAR line because we don't know exactly kind of which elements of FAR line you guys
+1031120, 1034920, have and such.
+1034920, 1039800, So hopefully that gives you a quick idea of how the guideline process will work.
+1039800, 1042640, Does that answer your first question, Taylor and Jason?
+1042640, 1046560, Yeah, yeah, I was just trying to.
+1046560, 1053680, So where I was going is trying to understand how you translate that to basically to an
+1053680, 1055480, algorithm type thing.
+1055480, 1063600, I was kind of curious if you're not necessarily that you're coding it, but how you're deconstructing
+1063600, 1069520, it to get to something that's searchable and that you can utilize for your checks.
+1069520, 1074600, I think I understand now that I see this, how you structure this.
+1074600, 1075600, Exactly.
+1075600, 1081280, So right now, basically this interface is under development and one component that was
+1081280, 1085000, important for us is, of course, we have logic in the back, but we want this to be accessible.
+1085000, 1092400, Like obviously we're not expecting that we're going to have a manager and executive be writing
+1092400, 1095440, code to implement a rule.
+1095440, 1097480, So that will be pointless.
+1097480, 1101400, So we're trying to make this a fairly intuitive interface.
+1101400, 1106560, But ultimately what it is doing is it's flexible and yet kind of guides you towards setting
+1106560, 1107560, up the guidelines.
+1107560, 1108840, So in this particular case, what would it look like?
+1108840, 1111840, You know, if that business is, and this has to be any, right?
+1111840, 1114120, They will basically remove that piece.
+1114120, 1116560, Any of your businesses would apply.
+1116560, 1120320, So it wouldn't be dependent on the SAC code or the type of business.
+1120320, 1125440, And it is in California.
+1125440, 1130960, So location equals California or the following 12 counties.
+1130960, 1137360, When wildfire risk is severe or high or severe, then, you know, what do you want?
+1137360, 1140360, Do you want a flag for refer?
+1140360, 1142880, Do you want an outright rejection?
+1142880, 1146880, Do you want it to be put towards the bottom of the priority queue?
+1146880, 1147880, As flexible.
+1147880, 1158880, Similarly, if it is in Oregon and protection class is six or higher, six or higher or lower
+1158880, 1166280, rather, I guess PC six or lower and is not in the following half a dozen counties and
+1166280, 1168520, the score is lower, higher is this.
+1168520, 1175120, Or for example, for hail, you'd be, if more than 25% of the locations are in high hail
+1175120, 1179440, risk counties, then refer or raise a flag.
+1179440, 1186400, So that's basically what we would implement.
+1186400, 1190680, Okay.
+1190680, 1191680, That makes sense.
+1191680, 1196800, And then I guess, yeah, kind of to the second part of that question is disclosure about
+1196800, 1201000, the data sources for where we're getting this from.
+1201000, 1202000, Yeah, absolutely.
+1202000, 1206840, Which we have talked about before, you know, the main, we tend to go to the source.
+1206840, 1208880, But of course, the source provides you some information.
+1208880, 1214200, For example, in terms of the flood risk, we have a lot of details on the flood itself,
+1214200, 1217360, but the flood score we're showing here is the flood zone, right?
+1217360, 1221760, So it's based on the flood zone and the flood zones that you guys use are, you have a little
+1221760, 1227000, more nuance over the overall flood zone versus the ones that are just straight up provided
+1227000, 1228000, by FEMA.
+1228000, 1233200, On the other hand, we do have the components around the, you know, the distance to the
+1233200, 1234780, plane, et cetera.
+1234780, 1241760, So we could basically manufacture a score that ties to your guidelines or we just use
+1241760, 1242760, your data.
+1242760, 1243760, So it's entirely up to you.
+1243760, 1248120, Yeah, and that's the question too, that we're going to have to bring back to the product
+1248120, 1249120, and run.
+1249120, 1250120, Exactly.
+1250120, 1254600, Where you want to, you know, if we are going to pursue this, where do you want to make
+1254600, 1255600, those changes?
+1255600, 1256600, Do you want to amend the guidelines?
+1256600, 1261080, You know, do we feel comfortable with the data that CLEPPA is bringing in or do we want
+1261080, 1265960, to try to have it, you know, map or kind of build that exercise of, you know, okay, we're
+1265960, 1270280, still going to use risk meter data and pull that in or we're going to go with, you know,
+1270280, 1275200, whatever CLEPPA data found, you know, data CLEPPA found and use, you know, like a proxy
+1275200, 1278160, kind of mapping to run that against the guidelines.
+1278160, 1281520, Who on the product team, Jason, would be doing this?
+1281520, 1283080, Is that more Charles or?
+1283080, 1284080, I think it depends.
+1284080, 1288440, I would start, yeah, Charles, it would be a good person to start with.
+1288440, 1290680, All the cat stuff runs up through Charles.
+1290680, 1291680, Okay.
+1291680, 1296680, So, yeah, so our perspective here is we will do whatever makes sense to you.
+1296680, 1302440, The software can work with either your data or ours, ours is right there, but, you know,
+1302440, 1305400, basically we have, we have worked with clients that they tell us, you know what, we actually
+1305400, 1309120, completely agree with your wildfire risk and the way you calculate it and the data behind
+1309120, 1310120, it.
+1310120, 1313320, We're all on board, but are really sure forces us to use their proprietary model.
+1313320, 1314320, Can you put that in?
+1314320, 1315320, The answer is yes.
+1315320, 1316320, Yeah.
+1316320, 1318600, And there might be stuff out there like that for us as well.
+1318600, 1324280, Charles, our property expert has a tremendous amount of knowledge and background in that
+1324280, 1325280, as well.
+1325280, 1330560, And it would really be having that conversation of, you know, knowing the source and then
+1330560, 1335320, understanding what that, you know, what that aligns with internally and if that's acceptable
+1335320, 1338560, to use that or if we do want to continue with our own, our own data.
+1338560, 1340120, That makes perfect sense.
+1340120, 1344920, And whichever path you guys choose for kind of using the current data or mapping through
+1344920, 1353200, co-pilot's data, currently, you know, a lot of these guidelines are not followed to the
+1353200, 1359120, T because one, it's just prohibitive, you know, for time-wise or it's impractical.
+1359120, 1364560, And therefore, if you can actually get, ensure that every single property, every single location,
+1364560, 1369160, every schedule is monitored and have comfort that that's actually going to be flagged if
+1369160, 1372400, there's something wrong with it that doesn't adhere to the guidelines, that just gives
+1372400, 1377000, you guys kind of, and leadership, a lot more comfort that like we're doing things the way
+1377000, 1378000, they should be.
+1378000, 1379000, Yep.
+1379000, 1385480, So there are two things that we'll be happy to do over the coming days if you guys can
+1385480, 1389320, provide to us, which we'll review the renewals that we had.
+1389320, 1392760, Jason, I believe you shared with us some renewals back at the very beginning, right?
+1392760, 1395120, With probably 20 or so.
+1395120, 1402920, And you sent us the list of renewals through April, but we don't have the SOVs or the actual,
+1402920, 1406520, yeah, the properties PECS sheets.
+1406520, 1410240, We'll be happy to run all the renewals if you can send those to us and particularly
+1410240, 1416520, run the guidelines automatically in all of their locations with our data right now.
+1416520, 1419120, But what we'll basically flag is like, you know, whatever.
+1419120, 1423120, It could very well be like, for example, in this case, this is one renewal.
+1423120, 1424720, There's only a single location.
+1424720, 1429120, We found it to have a high, potentially high health score.
+1429120, 1431800, It was Texas and I think Texas has slightly different guidelines.
+1431800, 1433640, There was this building aggregation thing.
+1433640, 1439120, Normally, we'll say, you know, hey, more than 25% are in high or severe or more than 30%
+1439120, 1441720, are in high, then this would be the client.
+1441720, 1443320, So obviously, we don't know the context.
+1443320, 1447920, We don't know if our report was run, if there was an exception because it's just one location.
+1447920, 1451160, But the reality is that if you provide a kind of with that context, we can just compare
+1451160, 1455240, and very easily tell you, hey, there might be a handful of things here you might want
+1455240, 1457040, to take another look at.
+1457040, 1459080, Here's our identifying the risk.
+1459080, 1461080, Does that tie up with the way you're doing it?
+1461080, 1464640, And can provide you guys with kind of that report or some things in a moment and take
+1464640, 1467600, a closer look at in the coming months before we know.
+1467600, 1469080, Yep, that makes sense.
+1469080, 1473880, And I think kind of to that point, is even if the data is slightly different, is it really
+1473880, 1476960, going to be that different that it's going to have a material impact?
+1476960, 1482320, Like if there's something that's in a flood zone, it's going to be in a flood zone.
+1482320, 1486560, So there might be a certain bit of a workable room within that as well.
+1486560, 1488440, Yeah, and we're flexible there.
+1488440, 1491840, So ultimately, we'll use whatever data makes sense to you guys.
+1491840, 1496400, The point in the functionality of the guideline, it can be a mix.
+1496400, 1503240, You can even say, hey, you know, apply a rule or a guideline for this that is using for
+1503240, 1507480, this part is using some color data and it's using some of our data that works.
+1507480, 1509480, So it's completely flexible.
+1509480, 1510480, Yeah.
+1510480, 1515000, Yeah, I'm just worried if we run all our renewal stuff through our new business budget may
+1515000, 1517000, go up significantly.
+1517000, 1522960, Yeah, we might be running off of the book.
+1522960, 1528920, Yeah, I mean, what we heard also from which as we go through these guidelines, I mean,
+1528920, 1533600, one thing we have seen is in general, you know, we identify we ran out and we had here
+1533600, 1538800, a handful submissions, found some areas which it's very, very likely that the guidelines
+1538800, 1542560, were reviewed for the most part properly here is probably in compliance that probably well
+1542560, 1543720, annotated.
+1543720, 1545120, We will share these with you guys.
+1545120, 1547120, And from our perspective, these are questions.
+1547120, 1552000, We're not claiming this is wrong and you don't know what you're doing and copilot does simply
+1552000, 1554200, we're saying, hey, did you take a look here?
+1554200, 1559520, There might be something until we obviously understand fully what is it that these guidelines
+1559520, 1561200, imply how they're deployed.
+1561200, 1565120, We obviously have no awareness of what exceptions you made and why, but wanted to point that
+1565120, 1566120, out.
+1566120, 1569640, The one thing that is important is it's very easy to understand why the underwriters, you
+1569640, 1574560, know, if you have 230 submissions, I think we have one recently that came in like Dutch
+1574560, 1579840, mafia or something, we're happy to show you that 230 locations, you have a clock as an
+1579840, 1585360, underwriter, you're looking at this, you know that if you send GSSE run 200 and turning
+1585360, 1588160, report, they'll never reply to your email in your life.
+1588160, 1591040, Of course, the underwriter is not going to do that.
+1591040, 1592160, And that makes sense.
+1592160, 1597720, I mean, the practical, the intelligent thing for the underwriter to do is not to do that.
+1597720, 1602640, On the other hand, it might be the 97th location that has a problem that you need to know.
+1602640, 1605200, Well, co-pilot doesn't have to make those trade-offs.
+1605200, 1607800, Co-pilot runs things in parallel, not sequentially.
+1607800, 1615320, So 200 locations, 500 locations, 5,000 locations, that's the same thing.
+1615320, 1619320, So it can then give that leverage to the underwriter to then say, hey, it could very well be, hey,
+1619320, 1621320, there's two locations here that have a problem.
+1621320, 1625200, And then the underwriter says, two locations, the roof looks fine.
+1625200, 1627160, These are new buildings.
+1627160, 1628160, We can exclude them.
+1628160, 1629160, We're good to go.
+1629160, 1634440, Versus either I'm too conservative or I lose the deal because I'm taking too long.
+1634440, 1639840, Or you put something and then you behave with a $2 million roof repair claim and some building
+1639840, 1650720, in Georgia.
+1650720, 1653120, So Jason, we can follow up separately.
+1653120, 1658200, We'll send you both, summarizing these ones that we found, again, where we have questions.
+1658200, 1661360, And you guys might have more context internally.
+1661360, 1666840, And then if you can send the files for us to load the remaining renewals, we're more
+1666840, 1667840, than happy to do that.
+1667840, 1669840, We'll load them all.
+1669840, 1671720, Yeah, I think we can do that.
+1671720, 1674840, I probably have a team put those again in a folder.
+1674840, 1677800, Hopefully this time is smoother than the last one.
+1677800, 1681960, Although I saw your note, I think it was today on the mailbox.
+1681960, 1687680, Yeah, we noticed that the new business, the way we noticed this is because it probably
+1687680, 1690560, took us a little bit longer than what I'd like for us to notice.
+1690560, 1694160, But the submissions from Tyler declined.
+1694160, 1695160, And it's that.
+1695160, 1698840, I think most of Tyler's submissions are coming through the new business.
+1698840, 1701000, Basically I think we have discussed this before.
+1701000, 1703200, So you have mentioned what we're seeing.
+1703200, 1708600, We have seen an ebb and flow of submissions coming in and being analyzed, which is pretty
+1708600, 1715480, much tied to the business and the business you're getting.
+1715480, 1723040, It's been pretty consistent for Danielle, for Lee, for Michael, and for David.
+1723040, 1724320, And Tyler went down.
+1724320, 1725400, And we're reviewing these.
+1725400, 1728480, We saw, okay, we seem to be missing submissions for Taylor.
+1728480, 1737040, A few of the submissions that didn't go through the corporate mailbox for folks like Lee and
+1737040, 1741860, Danielle, actually Rhea and Jen sent to us directly asking us to add them.
+1741860, 1744080, So that's what we had and kind of picked up on that.
+1744080, 1749360, And then Carol is the one that I think she exclusively uses Rush because we don't see
+1749360, 1750360, accounts like that.
+1750360, 1753360, I'm taking that to the bank.
+1753360, 1756240, I don't doubt that.
+1756240, 1758960, But okay, yeah, we'll make sure we get...
+1758960, 1762960, I think that frankly, the accounts for Carol, I would say, I think what the renewals that
+1762960, 1763960, you guys sent.
+1763960, 1768000, She'll probably come back and ask to say that she didn't know there was another mailbox.
+1768000, 1769000, There you go.
+1769000, 1776960, Whichever you think, the good thing though is for the other folks, there's been a wide
+1776960, 1780760, range of submissions, large, small, consistent.
+1780760, 1786600, So that has given us kind of a cross sectors, which actually makes...
+1786600, 1790720, There's sufficient data points on those to kind of arrive at this.
+1790720, 1795360, And we have found kind of a few of these examples, which is obviously what we want to see.
+1795360, 1799840, But of course, we want to make sure that before we go live with everybody, we can ensure all
+1799840, 1802840, the submissions are flowing through.
+1802840, 1803840, Good.
+1803840, 1812920, And one question for you guys in terms of the steering committee meeting, what is the
+1812920, 1818440, format that you would kind of see as being most effective in terms of orienting the audience
+1818440, 1821440, and kind of getting them up to speed?
+1821440, 1824720, Obviously, we've been kind of reviewing these slides with you guys.
+1824720, 1829440, It might make sense for you guys to actually kind of present some of them.
+1829440, 1830440, We can present...
+1830440, 1831440, Yeah, yeah.
+1831440, 1832440, I think that's how it would be.
+1832440, 1833440, And then we'd have you...
+1833440, 1834440, We'll look at it back there.
+1834440, 1835440, We'll probably take this.
+1835440, 1838440, This will probably be like the source.
+1838440, 1846520, We'll kind of QB some, but I think it would be good to...
+1846520, 1849160, It's a nice format that you have.
+1849160, 1852080, And probably Jason and I will kind of start off.
+1852080, 1859440, And then it probably dig into some areas like Paul kind of how you described.
+1859440, 1866400, I think we'll focus on the efficiency and types of gains and why we think it's good
+1866400, 1867640, for QB.
+1867640, 1873200, I think where something like you just did on talking about underwriting rules and how
+1873200, 1879600, that would be implemented and things would probably be a good area to maybe kind of sidebar
+1879600, 1880600, on that.
+1880600, 1881600, 100%.
+1881600, 1882600, Absolutely.
+1882600, 1883600, That makes a lot of sense.
+1883600, 1885080, That makes a lot of sense.
+1885080, 1890080, And as we think through it, we always look at what's happening here.
+1890080, 1895800, And there are a couple of components that, as we plan, are coming later.
+1895800, 1898320, The three-edging, of course, is something that we haven't touched yet, but you guys
+1898320, 1899520, know that that's part of it.
+1899520, 1902640, And if we get all the submissions to come through, there's no reason we cannot implement
+1902640, 1906480, those rules upfront to three-edge and incorporate appetite.
+1906480, 1908320, Furthermore, yeah, the guidelines.
+1908320, 1911760, We spent a lot of time incorporating those guidelines.
+1911760, 1914640, And Jason, you have mentioned the loss control.
+1914640, 1916080, We reviewed those loss control guidelines.
+1916080, 1917080, It's the same.
+1917080, 1918080, Those are rules.
+1918080, 1924360, So we absolutely can add those and provide kind of to the loss control team as helpful
+1924360, 1932000, access to underwriter, to copilot, to facilitate those desktop and virtual inspections as necessary.
+1932000, 1935000, I think we'll have to kind of think through it.
+1935000, 1941440, It's not that hard to think about it, but of the audience and kind of initially, I think
+1941440, 1946000, when we were first talking to you guys, it was like, well, we don't even have guidelines
+1946000, 1947840, or we need to get guidelines first.
+1947840, 1950480, So let's not worry about trying to get those in.
+1950480, 1954040, But I think in practical purposes, there really are.
+1954040, 1959000, Obviously, there are some guidelines and there's things we can do that have big impact.
+1959000, 1963760, You may not get the super granular level, but there's some things that we can do in
+1963760, 1973480, this, keep on pushing back that we know we get submissions that have 100, 200, 300 locations.
+1973480, 1974480, That's not uncommon.
+1974480, 1975480, Not at all.
+1975480, 1983280, And if we want to, that's kind of what we expect to see.
+1983280, 1987640, So here's how we can make decisions very quickly when we have that.
+1987640, 1989760, So I think that's good.
+1989760, 1994200, I had some other thing that was just kind of going through my mind here.
+1994200, 2002800, Yeah, probably like where Jason and I will focus is on how it fits into the QB process
+2002800, 2005600, and talk about efficiencies and effectiveness.
+2005600, 2012840, And again, where you can come in is probably highlight some of the things that the software
+2012840, 2017080, is doing and then where you guys are going, some things that where you're going.
+2017080, 2020520, So I think that would be pretty powerful discussion.
+2020520, 2021520, 100%.
+2021520, 2026680, And we're going to send this to you right after, but we've added some materials on that,
+2026680, 2027680, Taylor.
+2027680, 2030920, Obviously, per request of your team, we have implemented a few other things.
+2030920, 2033960, So for example, the Stabular Reporting View, which hopefully you guys have been able to
+2033960, 2034960, see.
+2034960, 2039600, This was implemented per popular request at QBE.
+2039600, 2044280, What this does is it essentially allows them, the underwriters and AUs to put together those
+2044280, 2047280, reports that take quite a long time to do.
+2047280, 2050080, That's a one click process right now.
+2050080, 2055400, One area where we might want to have just a slide and maybe it's something we put together
+2055400, 2063680, is, you know, so at QBE, we're doing a lot of things.
+2063680, 2069880, We're, you know, somewhat joking that Jason and I have been asking for things for a long
+2069880, 2071880, time and now we're starting to get it.
+2071880, 2076040, And now we're getting what we asked for and it creates a whole lot of work.
+2076040, 2085280, But this idea that, you know, are we putting in, like are we piecemealing things or is
+2085280, 2087840, there a real plan there?
+2087840, 2091360, And we probably say, well, a little bit of both, you know.
+2091360, 2096360, There is a plan we want to have when we think about the end-to-end process.
+2096360, 2100720, This fits in nicely into kind of our needs to have.
+2100720, 2106280, There's a piece in the upfront submission on how data actually comes in that we want
+2106280, 2107280, to have.
+2107280, 2108280, We have our policy admin system.
+2108280, 2113640, We have our forms controlled through, you know, product risk genius.
+2113640, 2118480, We don't have an underwriting workstation, but that's something, you know, ultimately
+2118480, 2121480, that would be kind of bring everything together.
+2121480, 2126760, But in the meantime, how does something like this truly integrate without it being now
+2126760, 2130160, another tool that an underwriter or AU needs to go to?
+2130160, 2132800, So that's, I think we need to be able to explain that.
+2132800, 2138800, Not as much to Dan, but someone like Tom Fitzgerald who heads the SNC area that, you know, we're
+2138800, 2142960, not, we're making the underwriter's life easier.
+2142960, 2147240, We're not adding another tool or another place they need to go to.
+2147240, 2152720, And part of it's hard to explain that, well, there really isn't anything that does it all
+2152720, 2154740, or does it all well.
+2154740, 2161180, So what we need to do is bring in these pieces and then start to integrate these pieces so
+2161180, 2166440, that when you are an underwriter or an AU, you don't necessarily know that you're utilizing
+2166440, 2171160, all this software or different software and it's just all integrated there.
+2171160, 2172160, 100%.
+2172160, 2176240, And I think there's certainly many things that we can do on our end to support that
+2176240, 2177240, case that you're building.
+2177240, 2181600, And I know we have discussed more broadly around the underwriting workstation.
+2181600, 2185040, So certainly as we're going through it, you know, the last thing we want is that the underwriters
+2185040, 2188360, need to go move data from a system into Co-pilot.
+2188360, 2193160, That fortunately we're getting ahead of it by taking things directly from those inboxes,
+2193160, 2194160, which is good.
+2194160, 2200120, So we have actually seen cases where we actually get things in Co-pilot a day before they
+2200120, 2202160, top on Salesforce.
+2202160, 2207360, So certainly that's something that we were proud of and I want to expand upon where we
+2207360, 2208640, facilitate that.
+2208640, 2212440, But now we have automated the changes of status.
+2212440, 2215880, When we get that report, it updates the status automatically in Co-pilot.
+2215880, 2217720, The underwriter doesn't need to do anything.
+2217720, 2221000, We don't have the feedback loop backwards, but that's something we can do where in theory
+2221000, 2225000, the underwriter update status here, we should push that to Salesforce.
+2225000, 2226920, That's certainly something we can do as well.
+2226920, 2231280, And similarly, when the underwriter decides to quote or such, another integration we do
+2231280, 2234260, have available is then push into your policy admin system.
+2234260, 2235720, That's actually something we can do as well.
+2235720, 2238840, And we had discussed about it before, we just have implemented it in this phase.
+2238840, 2242520, So from our perspective, the underwriter should not have to be moving data anywhere.
+2242520, 2245700, As a matter of fact, there might be places where they are already moving data from one
+2245700, 2248380, system to another that we could make go away.
+2248380, 2253000, So for example, these reports, as we understand it, they put together the spreadsheets, those
+2253000, 2255960, reports and they go on present to the retail committee.
+2255960, 2260000, And then I imagine they put those somewhere in some sort of repository.
+2260000, 2262680, That can happen all within Co-pilot.
+2262680, 2268520, Yeah, no, I'll make sense.
+2268520, 2275320, And yeah, I think we just need to be ready to kind of explain or discuss how and also
+2275320, 2282980, that especially in the POC, we're just, we're taking it out of the box and we're doing some
+2282980, 2288720, things behind the scenes, but ultimately, we would definitely streamline this process.
+2288720, 2289720, Okay, good.
+2289720, 2290720, Thank you.
+2290720, 2292760, No, no, thank you.
+2292760, 2297880, I think certainly we're here to help and want to make sure that it's a seamless process.
+2297880, 2302160, And certainly, I think we want to make sure, as we've told you guys before, we want to
+2302160, 2307560, make sure we focus on what we promise we're going to do, deliver on that, and then we'll
+2307560, 2309440, make more promises after that.
+2309440, 2314920, But certainly, after we have these plays in a way that suits all the needs that we have,
+2314920, 2320960, particularly around guidelines and other of those integrations, then yeah, I mean, I know
+2320960, 2325520, you guys have mentioned a few times and I believe it was Alex had mentioned, well, can
+2325520, 2329960, we put some of the data that has now been collected in that internal database into Co-pilot
+2329960, 2331720, so you have everything unified?
+2331720, 2332720, Absolutely.
+2332720, 2336280, And for example, some of these reports that you see here, some of this information, this
+2336280, 2340040, is taking data from Co-pilot, it's taking data from the submission, and it could take
+2340040, 2342480, data from any other first party source that you guys have.
+2342480, 2347520, And I do really think that I know that we don't want to delve too far into that because
+2347520, 2351680, this is really about the, you know, the POC and kind of a more immediate need.
+2351680, 2356180, But I do think that's really a key part of the conversation is the potential for that
+2356180, 2362160, growth to say, you know what, we're here today, tomorrow we can have, you know, an API to
+2362160, 2366560, Salesforce so that if you know, both direct, you know, I said if you're closing out and
+2366560, 2370760, wanted to talk to the other one, you could have an API with image, right, which is our
+2370760, 2373160, task management platform, similar concept.
+2373160, 2378680, Like if I hit go in Culepa, it will actually kick off a task to have the, you know, all
+2378680, 2381320, the back office folks work on it.
+2381320, 2385680, And then that underwriting dashboard part of, hey, you know what, we can integrate with
+2385680, 2390840, your data, you know, through insights and actually pull in historical loss information
+2390840, 2394820, or any other, you know, structured data that we feed in for that component.
+2394820, 2401040, And to at least talk about that because I think from, you know, at that level, they
+2401040, 2404840, want to see something that can be long-term and that will serve multiple needs as we go
+2404840, 2405840, forward.
+2405840, 2406840, 100%.
+2406840, 2409240, And we want to be that solution for you guys.
+2409240, 2414960, Jason, one thing that could be helpful there, the capability is here, right?
+2414960, 2417880, With those renewals, I mean, with the new business, of course, you have the loss runs
+2417880, 2419480, and we got those loss runs.
+2419480, 2423600, But I imagine with the renewals, you probably have the loss history within QBE as well,
+2423600, 2424600, right?
+2424600, 2425600, Yeah, right.
+2425600, 2430040, It should be much easier to, the incoming loss history is tough and I wouldn't expect
+2430040, 2433240, you guys and the software to be able to handle that.
+2433240, 2438920, But we should have, I mean, data formatted in a way from internal perspective that you
+2438920, 2441240, should be able to handle.
+2441240, 2444760, So on the loss runs, I don't know, format it, we're working on it, but that's not live
+2444760, 2446720, yet, but it will be.
+2446720, 2449720, But it's only for the renewals.
+2449720, 2455520, If you're sending us the renewal information for us to run them, again, if it's easily
+2455520, 2460000, accessible, if you can share some of the loss history, we can add that here.
+2460000, 2462700, So the report will have losses as well.
+2462700, 2468080, So when we're presenting these to STIRCO, they can see, if losses are plugged into this,
+2468080, 2470560, then the losses will be here as well.
+2470560, 2471560, That's not a bad idea.
+2471560, 2477880, Taylor, what do you think the Power BI stuff would be the easiest?
+2477880, 2481600, Or what's I'm trying to think of?
+2481600, 2485120, Or yeah, probably the Power BI, yeah.
+2485120, 2491120, Because that's what's going to come from data insights or it'll be structured from that.
+2491120, 2492760, Okay.
+2492760, 2495520, I can send you guys a file.
+2495520, 2501960, Do you just want it to be generic or do we have a live account that?
+2501960, 2505040, We'll take whatever you have.
+2505040, 2510120, I think the ideal case scenario would be if you guys already have kind of standardized
+2510120, 2513380, way from Power BI for those renewals.
+2513380, 2518280, So if you're sending us kind of the SOVs and such, in addition to that, you have some sort
+2518280, 2521320, of output of one of your systems that has the losses.
+2521320, 2526120, Presumably, imagine you will have the insurer name or the policy ID, maybe has the location
+2526120, 2530360, where the loss happened, maybe the amount, maybe the date.
+2530360, 2535360, If you have those, then we can incorporate them.
+2535360, 2536360, Okay.
+2536360, 2537360, Yeah.
+2537360, 2544400, I was just thinking of the source we were just talking about doesn't at least the interface
+2544400, 2547920, doesn't get down to that level, I don't think.
+2547920, 2549040, What does that source provide you?
+2549040, 2551360, I mean, we don't want to make it...
+2551360, 2553520, It's really more at a claim level.
+2553520, 2557560, So you have a claim and then you have a lot of policy ID tied to it?
+2557560, 2558560, Yeah.
+2558560, 2563440, So you have policy ID, claim date, claim, I imagine type of claim or description of
+2563440, 2565960, the claim and the loss amount.
+2565960, 2566960, Yeah.
+2566960, 2567960, Yeah.
+2567960, 2570000, I mean, that might be sufficient to start.
+2570000, 2573520, Certainly, if there's anything more granular to a location, we'll talk to individual locations.
+2573520, 2575160, So for example, we'd love to show...
+2575160, 2583680, We should pull stuff, Jason, I guess from claims center or something.
+2583680, 2585400, Have you ever accessed that data directly?
+2585400, 2586400, I don't.
+2586400, 2587400, I know.
+2587400, 2594480, That's why it's easier for us to use one of the tools that we would utilize.
+2594480, 2596800, So let's say some, I just kind of...
+2596800, 2598960, Yeah, we'll think about it and we'll talk about it.
+2598960, 2604240, And at the very worst, we could just mock something up, I think too of, this is what
+2604240, 2605720, it could eventually look like.
+2605720, 2606720, Yeah.
+2606720, 2609720, But I think that's like a key component and it's not that hard.
+2609720, 2613800, It probably wouldn't be that hard, but that's like one of those key components.
+2613800, 2617680, All this data is, so just so you guys haven't...
+2617680, 2621520, And I think we've talked about this before, but we have a large project of moving all
+2621520, 2623320, our data into one source.
+2623320, 2625520, It's called Data Insights.
+2625520, 2634240, So ultimately everything flows through that data mark, which will be nice because historically
+2634240, 2638240, we've had to go to individual systems to get everything.
+2638240, 2640400, So you have multiple systems.
+2640400, 2641640, So that will be nice.
+2641640, 2644320, But that's where you would get your data from ultimately.
+2644320, 2646320, We would pull some data.
+2646320, 2647320, That sounds phenomenal.
+2647320, 2648320, Yeah.
+2648320, 2649320, I just don't think...
+2649320, 2653000, Yeah, it's one of those things that could...
+2653000, 2655440, We could talk to someone on the Data Insights team.
+2655440, 2656920, I just don't want it to become a project.
+2656920, 2657920, Yeah, right.
+2657920, 2659920, That was kind of my thought too.
+2659920, 2660920, Yeah.
+2660920, 2661920, Yeah.
+2661920, 2664360, Can we just go run something ourselves and then start pushing it?
+2664360, 2665360, Yeah.
+2665360, 2666920, We'll work with whatever is easy.
+2666920, 2671760, Right now I think what we want to do is, obviously as we're putting this...
+2671760, 2675560, When we talk to a circle, obviously we want to show what we have done.
+2675560, 2678320, And I think we have some numbers here and looking for your feedback.
+2678320, 2681400, But then also kind of what are the elements that are ahead?
+2681400, 2685600, And certainly you guys have a vision for implementing this.
+2685600, 2687400, We can get you kind of basic loss run information.
+2687400, 2693440, It's actually the information that the underwriters would use and probably only if they saw some
+2693440, 2696720, anomalies and they want to drill down into more detail.
+2696720, 2700480, But it would be like the base information that they would use for their renewal process.
+2700480, 2701480, Yeah, that makes perfect sense.
+2701480, 2704880, Because you can imagine it would be, for example, just to give you an example here of kind of
+2704880, 2707800, what was running through my mind, which I imagine it would be what your underwriters
+2707800, 2712400, would want, which is you're renewing this account and whatever.
+2712400, 2718660, The Hale exposure for whatever reason didn't fully capture and there was a Hale loss there
+2718660, 2720080, in the past year.
+2720080, 2721080, We will flag this immediately.
+2721080, 2722080, Right?
+2722080, 2726640, So you can basically say, okay, we will have avoided that loss.
+2726640, 2732360, But that loss was entirely avoidable and we can make sure that doesn't happen.
+2732360, 2733360, Yep.
+2733360, 2734360, Okay.
+2734360, 2735360, All right.
+2735360, 2736360, This is good.
+2736360, 2737360, Good stuff.
+2737360, 2738360, Good.
+2738360, 2739360, Wonderful.
+2739360, 2741360, So I'm going to go ahead and send that to you right after this meeting.
+2741360, 2742360, All right.
+2742360, 2743360, Thank you.
+2743360, 2744360, Anything else for the day?
+2744360, 2746880, I think that's all we got.
+2746880, 2748640, So definitely let us know.
+2748640, 2751520, We'll get that all scheduled.
+2751520, 2752520, Good.
+2752520, 2757520, I just got two IMs while we were talking, so I get two more meetings after this.
+2757520, 2763120, I'm trying to not to hurry this along, but this is all productive.
+2763120, 2764120, So this is good.
+2764120, 2765680, I appreciate you both taking the time.
+2765680, 2768400, I appreciate it so late and good luck with those meetings, Taylor.
+2768400, 2769400, So we'll be in touch then.
+2769400, 2770760, We'll look forward to hearing from you on the scheduling.
+2770760, 2774840, We'll send this out and then whatever data you guys can send on those renewals, send
+2774840, 2775920, them our way.
+2775920, 2780200, And then Taylor will follow up as well with more details and let us know if they're saying
+2780200, 2781200, we should be doing procurement folks.
+2781200, 2783200, We haven't heard from them yet.
+2783200, 2784200, Good.
+2784200, 2785200, Perfect.
+2785200, 2786200, Thank you.
+2786200, 2789320, You guys have a good evening and we'll talk to you next couple of days.
+2789320, 2790320, You too.
+2790320, 2791320, Take care.
+2791320, 2811640, Bye bye.
