@@ -81,7 +81,6 @@ def main_script(bucket_name):
             index = GPTSimpleVectorIndex(documents,llm_predictor=llm_predictor)
             response = index.query('What the documents are about?')
             print(response)
-
         else:
             print('Bucket does not exist in project, end of process')
     except Exception as e:

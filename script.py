@@ -4,13 +4,6 @@ from google.cloud import storage
 import os
 import openai
 from dotenv import load_dotenv
-from gpt_index import Document
-from gpt_index import GPTSimpleVectorIndex
-from gpt_index import (
-    LLMPredictor
-)
-from langchain import OpenAI
-
 
 # set up google client with credentials, open ai
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'credentials/maya.json'
@@ -63,18 +56,22 @@ def main_script(bucket_name,folder):
             print(f'Error trying to get buckets in project: {e}')
         # verify that required bucket exist in project
         bucket_exists = bucket_name in buckets_in_project 
+        # if bucket exists download the files from kalepa's folder
         if bucket_exists:
-            blobs_in_bucket = []
+            blobs_paths_bucket = []
             prefix = folder+'/'
             blobs = list_blobs(bucket_name, prefix)
             for blob in blobs:
-                blobs_in_bucket.append(blob.name)
-                blob_name = blob.name
+                blobs_paths_bucket.append(blob.name)
+            for blob in blobs_paths_bucket:
+                blob_name = blob
                 split_name = blob_name.split('/')
                 file_name = split_name[1]
-                print(file_name)
-            #for index, blob in enumerate(blobs_in_bucket):
-                #download_blob(bucket_name,blob,'data/file'+str(index)+'.txt')
+                download_blob(bucket_name,blob,'data/'+file_name)
+                """
+                TO DO: add the code here to create the index for .txt files and upload them to bucket
+                """
+        # if bucket does not exist print a message and finish process
         else:
             print('Bucket does not exist in project, end of process')
     except Exception as e:
