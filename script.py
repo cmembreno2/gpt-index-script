@@ -4,23 +4,21 @@ from google.cloud import storage
 import os
 import openai
 from dotenv import load_dotenv
-from gpt_index import GPTSimpleVectorIndex, SimpleDirectoryReader, Document
+from gpt_index import GPTSimpleVectorIndex, Document
 from gpt_index import (
     LLMPredictor
 )
 from langchain import OpenAI
 
 # set up google client with credentials, open ai
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'credentials/maya.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'credentials/credentials.json'
 storage_client = storage.Client()
 load_dotenv()
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # variables to run script - these will be the arguments to run script
-bucket_name = "maya-ai-demo-datasets"
+bucket_name = "test-bucket-dataset-cm-1"
 folder = 'kalepa-dataset'
-#bucket_name = "test-bucket-dataset-cm-1"
-#folder = 'kalepa-dataset'
  
 # function to get all buckets in project 
 def list_buckets():
@@ -49,6 +47,17 @@ def download_blob(bucket_name,file_name_bucket,file_name_local):
         return True
     except Exception as e:
         return False   
+
+# function to upload a blob to bucket
+def upload_to_bucket(blob_name, file_path, bucket_name):
+    try:
+        bucket = storage_client.get_bucket(bucket_name)
+        blob = bucket.blob(blob_name)
+        blob.upload_from_filename(file_path)
+        return True
+    except Exception as e:
+        print(e)
+        return False
 
 # function main  
 def main_script(bucket_name,folder):
@@ -125,6 +134,14 @@ def main_script(bucket_name,folder):
                         split_index_name = file_name.split('.')
                         index_name = split_index_name[0]
                         index.save_to_disk(f'indexes/{index_name}.index.json')
+            for filename in os.listdir('indexes/'):
+                f = os.path.join('indexes/',filename)
+                if os.path.isfile(f):
+                    file_name = f
+                    split_name = file_name.split('/')
+                    file_name = split_name[1]
+                    blob_name = folder+'/'+file_name
+                    upload_to_bucket(blob_name, f, bucket_name)
         # if bucket does not exist print a message and finish process
         else:
             print('Bucket does not exist in project, end of process')
