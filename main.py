@@ -1,4 +1,5 @@
 # importing libraries
+import sys
 import os 
 from google.cloud import storage
 import os
@@ -15,10 +16,6 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'credentials/credentials.json'
 storage_client = storage.Client()
 load_dotenv()
 openai.api_key = os.getenv('OPENAI_API_KEY')
-
-# variables to run script - these will be the arguments to run script
-bucket_name = "test-bucket-dataset-cm-1"
-folder = 'kalepa-dataset'
  
 # function to get all buckets in project 
 def list_buckets():
@@ -141,7 +138,9 @@ def main_script(bucket_name,folder):
                     split_name = file_name.split('/')
                     file_name = split_name[1]
                     blob_name = folder+'/'+file_name
+                    print('Uploading documents')
                     upload_to_bucket(blob_name, f, bucket_name)
+                    print('Indexes uploaded to bucket')
         # if bucket does not exist print a message and finish process
         else:
             print('Bucket does not exist in project, end of process')
@@ -149,4 +148,4 @@ def main_script(bucket_name,folder):
         print(f'Error executing main: {e}')   
 
 if __name__ == "__main__":
-    main_script(bucket_name,folder)
+    main_script(sys.argv[1],sys.argv[2])
